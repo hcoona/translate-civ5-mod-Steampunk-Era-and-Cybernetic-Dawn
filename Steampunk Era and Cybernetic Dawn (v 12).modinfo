@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="abe48da5-e329-4eb7-a6d3-adbe56c0a41f" version="12">
+  <Properties>
+    <Name>Steampunk Era and Cybernetic Dawn</Name>
+    <Teaser>[......]</Teaser>
+    <Description>[h1][b]Requires G&amp;K and BNW/[i]Mod both in French and in English[/i][/b][/h1]
+
+[u][h1]This mod includes:[/h1][/u]
+[b]Already existing mods, mixed in this one and improved (sometimes) or simply modified (sometimes) by me though I didn't create them:[/b]
+
+ - [url=http://steamcommunity.com/sharedfiles/filedetails/?id=544452801]The Enlightenment Era[/url]
+
+ - [url=http://steamcommunity.com/sharedfiles/filedetails/?id=83056827]Faster Aircraft Animations[/url]
+
+ - [url=http://steamcommunity.com/sharedfiles/filedetails/?id=319530614]Submarines Ignore Borders[/url]
+
+ - [url=http://steamcommunity.com/sharedfiles/filedetails/?id=160457536]Capture Great People[/url]
+
+ - [url=http://steamcommunity.com/sharedfiles/filedetails/?id=334658791]Nuclear Plants Can Meltdown[/url]
+
+ - [url=http://steamcommunity.com/sharedfiles/filedetails/?id=176623639]Industrial District Improvement[/url]
+
+ - [url=http://www.picknmixmods.com/mods/789d99ab-9597-4314-8fc7-064081aa879b/mod.html]Railroad Artillery[/url] (without the DLL needed and without the unit model)
+
+[b]New things:[/b]
+
+ - What does the Empire of the Smoky Skies Scenario Tech Tree include, more the Great War Machine Gun (a ranged unit between the Gatlinggun and the Atomic Era Machine Gun), the Assault Airship (a weak airship specialized to attack cities), the Bombardment Ship (a quite strong ranged airship specialized to attack cities too) and the Armored Train (a slow armored unit able to carry aircrafts and to do ranged attacks)
+
+ - The 5 civs of the Empire of the Smoky Skies Scenario
+
+ - 5 new Techs, 2 new Buildings and 22 new Units inspired by the Leviathan Series, by Scott Westerfeld
+
+ - Additions to the Information Era, including Drones, Dreadnoughts, Cyborgs etc for the units and Arcologies, Hydroelectrics, Genic Labs etc for the buildings, with 10 new Techs, inspired by the Next War Mod included in Civ 4 - Beyond the Sword + Synthetics and Sentry Bots from Fallout 4
+
+ - A lot of little things modified here and there, like resource costs for some units (For example, the Lancer now costs Horse AND Iron) or the Combat Strength/Movement Points of some others (For example, the Tank now has 80 Strength and the Rocket Artillery 3 Moves)
+
+ - New buildings providing resources in order to keep the balance with new resource costs
+
+ - Fallout Damage (40 / turn)
+
+ - You now capture aircrafts and missiles when you take a city
+
+ - Various modifications you will discover playing this
+
+[u][b]Total:[/b][/u] 50 new Techs, 62 new Buildings and 8 new Wonders, 64 new Units</Description>
+    <Authors>Aurore</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="BF5E4F5D282F739FA1EEA711D813FB1F" import="1">Art/Atlases/Buildings/Enlightenment_Buildings_128.dds</File>
+    <File md5="743ADD07CCA2326513FEDF6998F554EF" import="1">Art/Atlases/Buildings/Enlightenment_Buildings_256.dds</File>
+    <File md5="69949283BAFBD5F7896C9588E850705A" import="1">Art/Atlases/Buildings/Enlightenment_Buildings_45.dds</File>
+    <File md5="38F16787B9ECF726F9B50A77499E1695" import="1">Art/Atlases/Buildings/Enlightenment_Buildings_64.dds</File>
+    <File md5="3BB50D8C82B56BD977AD3B3BADF441C6" import="1">Art/Atlases/Buildings/Enlightenment_Buildings_80.dds</File>
+    <File md5="8D32A99F9D6540F083A1B8B63B791373" import="1">Art/Atlases/Techs/EE_Flintlock_128.dds</File>
+    <File md5="EECA5D2376BF9D6820366B9522352D32" import="1">Art/Atlases/Techs/EE_Flintlock_214.dds</File>
+    <File md5="E02F8337C9B904CA5F8042C3A6F6EFDF" import="1">Art/Atlases/Techs/Enlightenment_Techs_128.dds</File>
+    <File md5="C21B4424322500605E5F54402C1EB33D" import="1">Art/Atlases/Techs/Enlightenment_Techs_214.dds</File>
+    <File md5="32C40EC5CAA71F8067A4B220A5D3ABEF" import="1">Art/Atlases/Techs/Enlightenment_Techs_256.dds</File>
+    <File md5="51690156A4A241BF658B57A96DB417E0" import="1">Art/Atlases/Techs/Enlightenment_Techs_45.dds</File>
+    <File md5="158084A05E6604D6F8FBAA94BBE6D8F5" import="1">Art/Atlases/Techs/Enlightenment_Techs_64.dds</File>
+    <File md5="6609DB90829F7411EF42834DAA3C31C5" import="1">Art/Atlases/Techs/Enlightenment_Techs_80.dds</File>
+    <File md5="FC73717BCE4036BD27A16EB1EBCA067D" import="1">Art/Atlases/Units/Enlightenment_Units_128.dds</File>
+    <File md5="2881564B179DE2F7E5618DF5B770D38C" import="1">Art/Atlases/Units/Enlightenment_Units_256.dds</File>
+    <File md5="BA8B12F6AEDF04DCF2A829DA8B2F5176" import="1">Art/Atlases/Units/Enlightenment_Units_45.dds</File>
+    <File md5="EAA3F0E0AAC8A626B2F1769969DCD3DE" import="1">Art/Atlases/Units/Enlightenment_Units_64.dds</File>
+    <File md5="A9CA566F3516B1F86C6C15118B64A568" import="1">Art/Atlases/Units/Enlightenment_Units_80.dds</File>
+    <File md5="63DBEA3C9A68ECE52947B3AFF733FF1C" import="1">Art/Atlases/Units/Unit Flags/Enlightenment_UnitFlags_32.dds</File>
+    <File md5="25AA5E4360A27D848F5DFA9BA0354F68" import="1">Art/Atlases/Units/Unit Flags/sv_Carrack.dds</File>
+    <File md5="3F735F37A78CCE3495B3B1B3A52980B2" import="1">Art/Atlases/Units/Unit Flags/sv_Cruiser.dds</File>
+    <File md5="F273B35C0DF6C3DDA0907973F966C4C0" import="1">Art/Atlases/Units/Unit Flags/sv_Cuirassier.dds</File>
+    <File md5="7EA37A2020BA282F76D3515862A9D4D8" import="1">Art/Atlases/Units/Unit Flags/sv_Explorer.dds</File>
+    <File md5="C509B6310155B4C133A288C453BB2345" import="1">Art/Atlases/Units/Unit Flags/sv_FieldGun.dds</File>
+    <File md5="321FE6BE3AC922A3F4512846AB45711B" import="1">Art/Atlases/Units/Unit Flags/sv_Galleon.dds</File>
+    <File md5="9626BDF4DFC2B0A9F97CC55325BA397C" import="1">Art/Atlases/Units/Unit Flags/sv_LineInfantry.dds</File>
+    <File md5="491F831F873CC3A793FB8F7F61BE8D9C" import="1">Art/Atlases/Units/Unit Flags/sv_ShipoftheLine.dds</File>
+    <File md5="14F42BFDF97CFCD443560FEDE2650C6F" import="1">Art/Atlases/Units/Unit Flags/sv_Skirmisher.dds</File>
+    <File md5="8805C748FF57C52322FC9E566BAFDE88" import="1">Art/Atlases/Units/Unit Flags/sv_Uhlan.dds</File>
+    <File md5="2E7072D92C2C1A6B67BC3E3AF815F1C1" import="1">Art/Atlases/Units/Unit Flags/Water-Walker/sv_Water-Walker.dds</File>
+    <File md5="DE62A8D383D60C1A12D5C3339B098C4E" import="1">Art/Atlases/Units/Unit Flags/Water-Walker/Water-Walker_Flag.dds</File>
+    <File md5="B20DE2D0E51368D396CA3F26A21617C5" import="1">Art/Atlases/Wonders/Enlightenment_Wonders_128.dds</File>
+    <File md5="8A74C56D776D108A5959339CC9E2D22F" import="1">Art/Atlases/Wonders/Enlightenment_Wonders_256.dds</File>
+    <File md5="5FE9E5B802E4CB161A4791F5686ECBDE" import="1">Art/Atlases/Wonders/Enlightenment_Wonders_32.dds</File>
+    <File md5="336C5F437C9443A7C59BCA82DD41701C" import="1">Art/Atlases/Wonders/Enlightenment_Wonders_45.dds</File>
+    <File md5="CA16ED38264316F1DDFE53DEA78215FA" import="1">Art/Atlases/Wonders/Enlightenment_Wonders_64.dds</File>
+    <File md5="A8BA84299A2EF793F17D179763E41137" import="1">Art/Atlases/Wonders/Enlightenment_Wonders_80.dds</File>
+    <File md5="9DC8814309AA68D676C188F4FBD75F94" import="0">Art/Enlightenment_IconTextureAtlases.xml</File>
+    <File md5="811FD6256D6D4E2E361C155F0910EE8D" import="1">Art/Scenes/EE_Crystal_Palace_Splash.dds</File>
+    <File md5="CEB20652DBD39BE798D7CBE354E2ABC7" import="1">Art/Scenes/EE_FasilGhebbi_Splash.dds</File>
+    <File md5="870A1E50F9B3E68BDFFCBA4295F5A98A" import="1">Art/Scenes/EE_Kronborg_splash.dds</File>
+    <File md5="F2C71619278BE0854D5C9AA0D4500F1F" import="1">Art/Scenes/EE_Smithsonian_splash.dds</File>
+    <File md5="3C787A26D55325CD91C5EC239B46DAE7" import="1">Art/Scenes/EE_Topkapi_splash.dds</File>
+    <File md5="A8EA71293EC8D1CC0082D406A36286FA" import="1">Art/Scenes/EE_Torre_Splash.dds</File>
+    <File md5="B87BF24F1742AF042384377AE3112F10" import="1">Art/Scenes/EE_Versailles_Splash.dds</File>
+    <File md5="127B9C1E76076CE2E3744B53128B1030" import="1">Art/Scenes/EE_Wat_Phra_Kaew_splash.dds</File>
+    <File md5="4A12F73E98C455C93844055E5207DA8E" import="1">Art/Scenes/ERA_Enlightenment.dds</File>
+    <File md5="E91401F6D6BBB3F0B61D15D9BF24B0F8" import="1">Art/Unit Models/Armoured Cruiser/cruiser.fxsxml</File>
+    <File md5="B4A8CD84C118F5DE906677643FAA9589" import="1">Art/Unit Models/Armoured Cruiser/cruiser.gr2</File>
+    <File md5="7D7DE5645854D0B24F25187C895FD74E" import="1">Art/Unit Models/Armoured Cruiser/cruiser_DIFF.dds</File>
+    <File md5="DAA63ECCA22801C2D10ABE8C4803714B" import="1">Art/Unit Models/Armoured Cruiser/cruiser_SREF.dds</File>
+    <File md5="0D763CB1E8E2206B90FDBBA290B61CDC" import="1">Art/Unit Models/Armoured Cruiser/fx_triggers_cruiser.ftsxml</File>
+    <File md5="B9985906AF255F559D3E090537D2BC8D" import="1">Art/Unit Models/Carrack/carrack.fxsxml</File>
+    <File md5="0C88428D303A518CF9686C4849F61401" import="1">Art/Unit Models/Carrack/carrack.gr2</File>
+    <File md5="96B095DE275E74C651C065D39B32F558" import="1">Art/Unit Models/Carrack/Carrack_diff.dds</File>
+    <File md5="997802481AF18082ADECA48D2FBFAF93" import="1">Art/Unit Models/Carrack/Carrack_sref.dds</File>
+    <File md5="8A99EC624932EA978AC415A5EDA6B95B" import="1">Art/Unit Models/Cuirassier/freca1.blend</File>
+    <File md5="EC3036DCDFE38A9726C4C8CEFBFFD4BA" import="1">Art/Unit Models/Cuirassier/freca1.dds</File>
+    <File md5="E5BC65E0AD0B363C4A09BE2284C8A236" import="1">Art/Unit Models/Cuirassier/freca1.fxsxml</File>
+    <File md5="829FF0C918432A521E60706680FC77D5" import="1">Art/Unit Models/Cuirassier/freca1.gr2</File>
+    <File md5="431E6E3A865C5168E7B138F1703536B6" import="1">Art/Unit Models/Cuirassier/freca1_sref.dds</File>
+    <File md5="DB9D68A73ADE7CAF1F6AC4A8A377BE2C" import="0">Art/Unit Models/Enlightenment_ArtDefines.xml</File>
+    <File md5="480B2BC2DF69254A5F26102F62B460DD" import="1">Art/Unit Models/Explorer/conquistador_musketman.dds</File>
+    <File md5="163CDF867415B69FD0EAB1A1216A7171" import="1">Art/Unit Models/Explorer/conquistador_musketman_2.dds</File>
+    <File md5="279FC1F7C6615687E0368FF0A59A37CF" import="1">Art/Unit Models/Explorer/conquistador_musketman_3.dds</File>
+    <File md5="75303B1580E2345C41C513245A61AA9B" import="1">Art/Unit Models/Explorer/conquistador_musketman_gloss.dds</File>
+    <File md5="615B602250AD9F31C83E54401FAB425E" import="1">Art/Unit Models/Explorer/conquistador_musket_1.fxsxml</File>
+    <File md5="8607CAE5DE8BC741AE849DB5F1E4C9BE" import="1">Art/Unit Models/Explorer/conquistador_musket_1.gr2</File>
+    <File md5="DE3E68D7ECC88C45BA3DDE93769B13BE" import="1">Art/Unit Models/Explorer/conquistador_musket_2.fxsxml</File>
+    <File md5="A9F73A8EB3E133ECC88E2E98D54E53FA" import="1">Art/Unit Models/Explorer/conquistador_musket_2.gr2</File>
+    <File md5="2291E5B3992C4DD72FFD9AA5137040CC" import="1">Art/Unit Models/Explorer/conquistador_musket_3.fxsxml</File>
+    <File md5="8B2BB0700175C72889F6322CF65221F5" import="1">Art/Unit Models/Explorer/conquistador_musket_3.gr2</File>
+    <File md5="86601C5390F5E00A678F427508E43364" import="1">Art/Unit Models/Explorer/conquistador_musket_4.fxsxml</File>
+    <File md5="7AA7FA7158633FCB58A19B1E13B90C1D" import="1">Art/Unit Models/Explorer/conquistador_musket_4.gr2</File>
+    <File md5="4E619175C0B48768A94533CAC7D6396B" import="1">Art/Unit Models/Explorer/vet_conquistador_musketman.dds</File>
+    <File md5="03F466FBFA068FD4D33950CF16CF0C46" import="1">Art/Unit Models/Explorer/vet_conquistador_musketman_gloss.dds</File>
+    <File md5="241C29C8B726656AB37954C30F1BA6B5" import="1">Art/Unit Models/Field Gun/cannon_24pound_diff.dds</File>
+    <File md5="8D4A41DB021D942DCA1390B723FE608C" import="1">Art/Unit Models/Field Gun/cannon_24pound_sref.dds</File>
+    <File md5="8E6881CE22AED47000717E8CE9E89952" import="1">Art/Unit Models/Field Gun/GunCrew_diff.dds</File>
+    <File md5="6F18038FC5B71FADC231C9DA84C04D78" import="1">Art/Unit Models/Field Gun/GunCrew_sref.dds</File>
+    <File md5="E512CFB0D832CF1EAFA157A1828623B9" import="1">Art/Unit Models/Field Gun/NapoleonCannon.fxsxml</File>
+    <File md5="6DD3501F60795A8CE82B0E29B3EEF5B8" import="1">Art/Unit Models/Field Gun/NapoleonCannon.gr2</File>
+    <File md5="97FA4E37787448ECFCD7BCA605A6BB64" import="1">Art/Unit Models/Line Infantry/civ5_genmm1.fxsxml</File>
+    <File md5="80A6D50D4E1744365664F2AB5934FFB4" import="1">Art/Unit Models/Line Infantry/civ5_genmm1.gr2</File>
+    <File md5="F4C7D610351C73897BBA1E349ED4736A" import="1">Art/Unit Models/Line Infantry/genmm1.dds</File>
+    <File md5="A14D497A7F4311135C55C3ABAF5C919E" import="1">Art/Unit Models/Line Infantry/genmm1_sref.dds</File>
+    <File md5="F2F9FB35212A5944D17EEABCCC997FE2" import="1">Art/Unit Models/Ship of the Line/shipoftheline.fxsxml</File>
+    <File md5="70CBBFB6EE6A7321C7C1EF75A9404F91" import="1">Art/Unit Models/Ship of the Line/shipoftheline.gr2</File>
+    <File md5="05DA3D0442248AADAAA2CD3B3DF714A0" import="1">Art/Unit Models/Ship of the Line/shipoftheline_diff.dds</File>
+    <File md5="C873D61FFC562B40382953E76FD9CE25" import="1">Art/Unit Models/Ship of the Line/shipoftheline_dmg_diff.dds</File>
+    <File md5="6E79240DD7A9BE6AB018F48ED65456FB" import="1">Art/Unit Models/Ship of the Line/shipoftheline_sref.dds</File>
+    <File md5="05DA3D0442248AADAAA2CD3B3DF714A0" import="1">Art/Unit Models/Ship of the Line/u_english_shipoftheline_diff.dds</File>
+    <File md5="C873D61FFC562B40382953E76FD9CE25" import="1">Art/Unit Models/Ship of the Line/u_english_shipoftheline_dmg_diff.dds</File>
+    <File md5="6E79240DD7A9BE6AB018F48ED65456FB" import="1">Art/Unit Models/Ship of the Line/u_english_shipoftheline_sref.dds</File>
+    <File md5="622FD133E9BC01AE23B8C049A126E8B3" import="1">Art/Unit Models/Skirmisher/civ5_engmm1.fxsxml</File>
+    <File md5="DBB87A7D7EB7288E063383CE7359399B" import="1">Art/Unit Models/Skirmisher/civ5_engmm1.gr2</File>
+    <File md5="D6FD89034E3F5FA0C6B4827EDC4F77B5" import="1">Art/Unit Models/Skirmisher/engmm1.dds</File>
+    <File md5="2B919A6DD458B564CA1B9CF223BA2EBD" import="1">Art/Unit Models/Skirmisher/engmm1_sref.dds</File>
+    <File md5="D0C4BEB025D5A5ABB61E064DF03F9C0E" import="1">Art/Unit Models/Uhlan/gerlr1.blend</File>
+    <File md5="7AB2730CB0FE653F11961FEC01B3BFDE" import="1">Art/Unit Models/Uhlan/gerlr1.dds</File>
+    <File md5="E293930068E4151E47DFEEC55606C2FA" import="1">Art/Unit Models/Uhlan/gerlr1.fbx</File>
+    <File md5="2501B7E45C14B210CCD1549FF819D2BF" import="1">Art/Unit Models/Uhlan/gerlr1.fxsxml</File>
+    <File md5="76F2BD42FCBC78E4ED51005C4EF88029" import="1">Art/Unit Models/Uhlan/gerlr1.gr2</File>
+    <File md5="D1CCFC3064BBA4A6439F5F71403F79BF" import="1">Art/Unit Models/Uhlan/gerlr1_sref.dds</File>
+    <File md5="726639F1F0C8F0D6DA9F6C2311A9F048" import="0">Core/EECarrackDefines.sql</File>
+    <File md5="99CCAD9781392DDC4F521455E45DDCC7" import="0">Core/EECruiserDefine.sql</File>
+    <File md5="29EF82FB907DB6B5F0C3F37FD33B4A6E" import="0">Core/EECuirassierDefine.sql</File>
+    <File md5="CF779F5EF8286F73BB31F775B5F2A5A9" import="0">Core/EEExplorerDefine.sql</File>
+    <File md5="2033175767DBA6F147F0674C9AC888AD" import="0">Core/EEFieldGunDefine.sql</File>
+    <File md5="BCF5DF41AE6B381FE0468713A2BFF25B" import="0">Core/EELineInfantryDefine.sql</File>
+    <File md5="E8FEEDE4B4AE5218CCFA8662A3620336" import="0">Core/EEShipoftheLineDefine.sql</File>
+    <File md5="67C88FD8BB78FFB166D57F5BE398CC39" import="0">Core/EESkirmisherDefine.sql</File>
+    <File md5="CA3595A1903BBF9EAB9FB4D27E1380AF" import="0">Core/EEUhlanDefine.sql</File>
+    <File md5="63E034ACA1BDA9BAADA617E825D00BCA" import="0">Core/Enlightenment_Improvements.xml</File>
+    <File md5="76362D58EAEA105DB8CDA06C0B476FDE" import="0">Core/FasterAircraft.sql</File>
+    <File md5="5E35C0B601F995B85E38FB90C08F6508" import="0">Core/CIV_UnitsUpdate.xml</File>
+    <File md5="B1AD191FB1290D173F4E495A2707E555" import="0">Core/Enlightenment_Civilizations.xml</File>
+    <File md5="F14F10B17A3668618DC3C05A9D8B13CF" import="0">Core/Enlightenment_Policies.xml</File>
+    <File md5="32BB653DA56150248453A80F7C00B033" import="0">Core/FalloutDamage.xml</File>
+    <File md5="893AFEC2409A9D893D7E420C21F247E6" import="0">Core/Music Steampunk.xml</File>
+    <File md5="63BAE5AB22DB9472829C97F7D455EA47" import="0">Core/IndustrialDistrict.xml</File>
+    <File md5="123F89AFD41C55D7B48B70EA35120B5D" import="0">Core/Strategies.xml</File>
+    <File md5="3C18B4C1A72209CBD894F173FCB1D26F" import="0">Core/JFD_BuildingClassesNeededInCityOR.sql</File>
+    <File md5="0277DDAA4619E0EA3E56F0091BE6D31A" import="0">Core/JFD_BuildingClassesNeededInCityOR.lua</File>
+    <File md5="10DD536CC986DE2C7296AF52FF0315F2" import="0">Core/NuclearPlantsCanMeltdown.lua</File>
+    <File md5="62FCC4C64CC9976FB30F0D15A2910B00" import="0">Core/Wonders.lua</File>
+    <File md5="C99BC74D62C45F4D114FCBB7B26E24B1" import="0">XML/Buildings/CIV5Buildings_SPEra.xml</File>
+    <File md5="2B9E55ED71369FF0E94FD6691B6E3DDC" import="0">XML/Buildings/CIV5Buildings_TextEntries_SPEra.xml</File>
+    <File md5="9656C48FD30756DFF1EEF6698A18B2F5" import="0">XML/Civilizations/CIV5Civ_Unique_SPEra.xml</File>
+    <File md5="7427E72E08C796876F06BE689EE01C7C" import="0">XML/Civilizations/CIV5Civilizations_SPEra.xml</File>
+    <File md5="E3D55280B3AD3831B3457ED36EF97D71" import="1">XML/Civilizations/Cutler_Scenario_Scene.xml</File>
+    <File md5="AB71875424E593E1A73FCD2D1738F165" import="1">XML/Civilizations/Alderdice_Scenario_Scene.xml</File>
+    <File md5="E438568241D73A428A45CAD6CC5FCFA3" import="1">XML/Civilizations/Curnow_Scenario_Scene.xml</File>
+    <File md5="2AAD581C98435D57FA6FD1966EEF9077" import="1">XML/Civilizations/Griggs_Scenario_Scene.xml</File>
+    <File md5="7CB4E7EB04DE0633DFFB84FE48AFDAB8" import="1">XML/Civilizations/Rotheram_Scenario_Scene.xml</File>
+    <File md5="268EE8B74D3BA33F76E5F20B29E67EB6" import="0">XML/Civilizations/CIV5Leaders_SPEra.xml</File>
+    <File md5="FD200C498628E39C496B6A684041F987" import="0">XML/Civilizations/TextEntries/CIV5Civilizations_TextEntries_SPEra.xml</File>
+    <File md5="AC18F4226F9E9B276CD15D9DB84C95CE" import="0">XML/Civilizations/TextEntries/CIV5Civ_Unique_TextEntries_SPEra.xml</File>
+    <File md5="2E146675E4B7DEB0DE08673D72067B35" import="0">XML/Civilizations/CIV5Traits_SPEra.xml</File>
+    <File md5="FED090D7A4E6B3DD55CC334084F049E9" import="0">XML/Technologies/CIV5Technologies_SPEra.xml</File>
+    <File md5="6D91AFFFD3AA4DC859A3CE2A91158300" import="0">XML/Technologies/CIV5Technologies_TextEntries_SPEra.xml</File>
+    <File md5="E1D68D8DB4759E578A2744772DA3F117" import="0">XML/Units/CIV5UnitsPromotions.xml</File>
+    <File md5="285E286917102EF5A31A7F1E66711846" import="0">XML/Units/CIV5Units_SPEra.xml</File>
+    <File md5="8EB7D6E07BE69F4C4F44CE83DFAFCECA" import="0">XML/Units/CIV5Units_TextEntries_SPEra.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Enlightenment_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Unit Models/Enlightenment_ArtDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Core/CIV_UnitsUpdate.xml</UpdateDatabase>
+      <UpdateDatabase>Core/EECarrackDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EECruiserDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EECuirassierDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EEExplorerDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EEFieldGunDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EELineInfantryDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EEShipoftheLineDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EESkirmisherDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EEUhlanDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Enlightenment_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Enlightenment_Improvements.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Enlightenment_Policies.xml</UpdateDatabase>
+      <UpdateDatabase>Core/FalloutDamage.xml</UpdateDatabase>
+      <UpdateDatabase>Core/FasterAircraft.sql</UpdateDatabase>
+      <UpdateDatabase>Core/IndustrialDistrict.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_BuildingClassesNeededInCityOR.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Music Steampunk.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Strategies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/CIV5Buildings_SPEra.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/CIV5Buildings_TextEntries_SPEra.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/TextEntries/CIV5Civ_Unique_TextEntries_SPEra.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/TextEntries/CIV5Civilizations_TextEntries_SPEra.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Alderdice_Scenario_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/CIV5Civ_Unique_SPEra.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/CIV5Civilizations_SPEra.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/CIV5Leaders_SPEra.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/CIV5Traits_SPEra.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Curnow_Scenario_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Cutler_Scenario_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Griggs_Scenario_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Rotheram_Scenario_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Technologies/CIV5Technologies_SPEra.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Technologies/CIV5Technologies_TextEntries_SPEra.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/CIV5Units_SPEra.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/CIV5Units_TextEntries_SPEra.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/CIV5UnitsPromotions.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/JFD_BuildingClassesNeededInCityOR.lua">
+      <Name>JFD_BuildingClassesNeededInCityOR</Name>
+      <Description>Look at the title</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/Wonders.lua">
+      <Name>Wonders</Name>
+      <Description>Wonder stuff</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/NuclearPlantsCanMeltdown.lua">
+      <Name>Nuclear Plants Can Meltdown</Name>
+      <Description>Nuclear Plants Can Meltdown</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

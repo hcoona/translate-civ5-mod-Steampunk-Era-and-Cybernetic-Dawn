@@ -1,0 +1,833 @@
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_SHALE_OIL_WELL_HELP">
+			<Text>Provides 7 [ICON_RES_OIL] Oil.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CARBON_FOUNDRY_HELP">
+			<Text>Provides 5 [ICON_RES_COAL] Coal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_IRON_FOUNDRY_HELP">
+			<Text>Provides 3 [ICON_RES_IRON] Iron.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HYDROELECTRIC_HELP">
+			<Text>Coastal and Ocean tiles : [ICON_PRODUCTION] Production +1. Marine resources : [ICON_FOOD] Food +2.[NEWLINE][NEWLINE]City must be built on the coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INDUSTRIAL_PARK_HELP">
+			<Text>Each source of [ICON_RES_COAL] Coal and [ICON_RES_OIL] Oil the city exploits provides +2 [ICON_PRODUCTION] Production. City must contain a Factory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THERMIC_PLANT_COAL_HELP">
+			<Text>Costs 1 [ICON_RES_COAL] Coal. Can't be built in a city already containing a Solar Plant, a Nuclear Plant or another Thermic Plant. City must contain a Factory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THERMIC_PLANT_OIL_HELP">
+			<Text>Costs 1 [ICON_RES_OIL] Oil. Can't be built in a city already containing a Solar Plant, a Nuclear Plant or another Thermic Plant. City must contain a Factory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCOLOGY_HELP">
+			<Text>25% of the food is kept after the birth of a new citizen. City must contain an Industrial Park, or a Biometallic Dome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCOLOGY_TEXT">
+			<Text>[TAB]An "arcology" is a human settlement with an extremely high population density. To achieve such density requires near-total control over the settlement's environment. As modern cities have become ever more populated, they have repeatedly stressed their resources to the breaking-point. The largest human cities have become de-facto arcologies, and to survive have had to encase themselves in domes to increase their control over the populace and the environment. [PARAGRAPH:1]Domed cities are more efficient than undomed cities, exposed as the latter are to the vagaries of the environment and all manner of air- and water-borne disease. The climate in an arcology is kept at a constant temperature, ending the need for less-efficient individual heating and cooling units. The air and water supplies are constantly scrubbed to remove any disease or impurities, increasing the population's life-spans and decreasing pressure on the city's medical support systems. Meals are created and served at massive cafeterias, providing a more efficient distribution of protein and also removing the need for wasteful individual cooking units. [PARAGRAPH:1]Increased population density is not without its drawbacks, however. As populations increase the stress level is higher, as is the risk of mental illness or indeed total mental breakdown. The city's leaders combat these problems through education, increased psychological monitoring of the population, and, in extreme cases, by secretly slipping doses of tranquilizers into the citizens' food supply.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HYDROPONICS_HELP">
+			<Text>Each river tile the city exploits provides +2 [ICON_FOOD] Food. City must be built near a river.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PUBLIC_TRANSPORTATION_HELP">
+			<Text>Costs 1 [ICON_RES_OIL] Oil. Cannot provide more [ICON_HAPPINESS_1] Happiness than there are [ICON_CITIZEN] Citizens in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GENIC_LAB_HELP">
+			<Text>5% of the food is kept after the birth of a new citizen. Cannot provide more [ICON_HAPPINESS_1] Happiness than there are [ICON_CITIZEN] Citizens in the city. City must contain a Medical Lab and a Laboratory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CLONING_FACTORY_HELP">
+			<Text>Cannot provide more [ICON_HAPPINESS_1] Happiness than there are [ICON_CITIZEN] Citizens in the city. This building is needed to train Clones, Automatons and Cyborgs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CLONING_FACTORY_TEXT">
+			<Text>[TAB]A cloning factory is a massive building containing hundreds (and sometimes thousands) of vats of murky and disgusting liquid, in which float human clones in varying stages of development. Humans and computers monitor each vat closely, ensuring that the clone within is getting the proper amount of nutrients, heat, light and oxygen necessary for successful maturation. [PARAGRAPH:1]In earlier experiments scientists were unable to grow clones any faster than humans themselves grow, but as technology has increased, so has the speed with which clones mature. At present, a clone's body will reach full maturity in just over six years, while a human requires eighteen to twenty years to achieve the same development. [PARAGRAPH:1]While a clone's mental capacity is negligible, their organs and other parts are identical to human and can be transplanted into a human body with ease. Further, advances in technology have allowed computers to interface with clones' underdeveloped brains, creating zombie-like creatures capable of rudimentary physical labor. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIOLOGICAL_WARFARE_LAB_HELP">
+			<Text>This building is needed to create Biological Warfare Missiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIOLOGICAL_WARFARE_LAB_TEXT">
+			<Text>[TAB]Bio-war labs are designed to create and mass-produce bio-weapons. In addition, they also work to create antidotes to the enemy's bio-weapons (as well as to their own). Thus these buildings are considered to be integral to a city's defenses. Despite this, and even though these Bio-war labs are equipped with sophisticated and layered defenses against containment breaches, such facilities are often quite unpopular with their neighbors. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MIND_CONTROL_CENTER_HELP">
+			<Text>Cannot provide more [ICON_HAPPINESS_1] Happiness than there are [ICON_CITIZEN] Citizens in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MIND_CONTROL_CENTER_TEXT">
+			<Text>[TAB]As populations continue to grow, pushing human stress and unhappiness to unacceptably high levels, some cities are turning to mind-control centers to help alleviate the problem. Popularly known as "fun zones," these buildings broadcast a constant stream of soothing and enjoyable light entertainment which can be experienced by any human in the city equipped with a neural receiver (colloquially known as a "brain-jack"). [PARAGRAPH:1]While a "jacked-in" subject's productivity, creativity and intellect are somewhat impaired. However, the person is virtually incapable of being unhappy, no matter what the circumstances - so long as the constant barrage of meaningless entertainment is poured into their otherwise vacant brains. [PARAGRAPH:1]Despite its benefits, constructing a mind control center is not to be undertaken lightly: the broadcasts have been found to be nearly 100% addictive, and cutting an addict off from them may cause massive mental trauma ranging from catatonia to deep depression to homicidal rage. In other words, once a city's population is jacked in, there's no turning back - and a city had better have plenty of backups in case of broadcast equipment failure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COLD_FUSION_PLANT_HELP">
+			<Text>Costs 2 [ICON_RES_URANIUM] Uranium. City must have a Factory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCOLOGY_SHIELDING_HELP">
+			<Text>Cannot provide more [ICON_HAPPINESS_1] Happiness than there are [ICON_CITIZEN] Citizens in the city. City must contain an Arcology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCOLOGY_SHIELDING_TEXT">
+			<Text>[TAB]Although fairly immune from the assaults of weather and other natural hazards, arcologies remain at high risk from human assault. To better protect themselves, the giant cities can add mechanical and electromagnetic shielding to their domes. While these are not totally effective against a determined assault, they do provide some measure of security to the civilian population. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DEFLECTOR_SHIELDING_HELP">
+			<Text>Cannot provide more [ICON_HAPPINESS_1] Happiness than there are [ICON_CITIZEN] Citizens in the city. City must contain an Arcology Shielding.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DEFLECTOR_SHIELDING_TEXT">
+			<Text>[TAB]Civil scientists and engineers are ever on the lookout for ways to improve a city's defense against enemy attack. Today's deflector shielding is a combination of several different successful lines of research. Advanced shields are made of far tougher semi-organic material designed to "scab over" and repair breaches in its surface. The electromagnetic shielding has been improved as well, increasing the overall strength of the shielding. While even the deflector shielding is less than perfect and can be overcome by determined attack, cities employing these defenses are far less vulnerable than unprotected cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUPERMARKET_HELP">
+			<Text>City must contain a Market.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ODEON_HELP">
+			<Text>Cannot provide more [ICON_HAPPINESS_1] Happiness than there are [ICON_CITIZEN] Citizens in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ODEON_TEXT">
+			<Text>Modern western drama was created in Greece around 530 BC, evolving from the "dithyramb," a fertility ritual of songs, poems and dances offered to the Greek god Dionysus. An "Odeon" is a large, open-aired structure in which such performances were held. The audience sat in a semicircle of seats around a central paved "dancing square" (orchestra). The first row of seats was reserved for important officials or priests. There was usually an altar dedicated to Dionysus somewhere in the odeon. The "logeion" was a small raised platform where the performers acted (the original dramas had at most three or four actors; the size of the stage would increase as later plays required bigger casts).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MRI_MACHINE_HELP">
+			<Text>All Hospitals provide +2 [ICON_RESEARCH] Science, +2 [ICON_FOOD] Food and +1 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_HIPPODROME_HELP">
+			<Text>Costs 1 [ICON_RES_HORSE] Horse. Cannot provide more [ICON_HAPPINESS_1] Happiness than there are [ICON_CITIZEN] Citizens in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_HIPPODROME_TEXT">
+			<Text>The Hippodrome of Constantinople (literally "Horse Path" in Greek) was constructed in 203 AD by the Emperor Septimius Severus. The building was a massive venue for chariot races. While the art of charioteering saw great advances in the Hippodrome - the first four-horse races were held here - much of the venue's renown would stem from it involvement in one of the most terrible massacres in Byzantine history. During the Nika Revolts, a brutal uprising between rival racing factions, nearly 30000 rioters were slain by Byzantine troops within the Hippodrome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GENIC_MANUFACTORY_HELP">
+			<Text>This building is needed to create all the darwinist units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STATION_HELP">
+			<Text>Land Trade Routes range is increased by 100%, and their gold output is increased by 3 [ICON_GOLD] Gold. Sea Trade Routes gold output is increased by 1 [ICON_GOLD] Gold. City must have a Caravansary.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VEHICLE_FACTORY_HELP">
+			<Text>Costs 1 [ICON_RES_COAL] Coal. +25% [ICON_PRODUCTION] Production when building Armored Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AIRCRAFT_FACTORY_HELP">
+			<Text>Costs 1 [ICON_RES_COAL] Coal. +25% [ICON_PRODUCTION] Production when building Airships or Helicopters. +15% [ICON_PRODUCTION] Production when building Air Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOODS_FACTORY_HELP">
+			<Text>Costs 1 [ICON_RES_OIL] Oil. +15% [ICON_PRODUCTION] Production when building Land Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JAIL_HELP">
+			<Text>Reduce enemy spy stealing rate by 15%. Cannot provide more [ICON_HAPPINESS_1] Happiness than there are [ICON_CITIZEN] Citizens in the city. City must have a Constabulary.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JAIL_TEXT">
+			<Text>[TAB]A jail is a building for holding prisoners. Jails can range in size from a single room to a sprawling complex of buildings inside miles of barbed wire. Prisoners incarcerated in a jail may be there for a variety of reasons. Some may be common criminals; others may be brutal murderers. Some may be captured enemy soldiers and spies. Some might be political prisoners, dissidents, or simply people who fell into bad grace with their rulers. Some might be mad - incarceration being a common way to deal with the insane before the creation of mental hospitals and sanitariums. [PARAGRAPH:1] The facilities inside jails vary widely. A jail for commoners or enemies of the state might be horrible, overcrowded dark pits that are infested with rats, while a king's prison may be indistinguishable from royal quarters, except for the small matter of which side of the door on which the guards stand. Mostly, jails are unpleasant and unhappy places.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SECURITY_BUREAU_HELP">
+			<Text>Reduce enemy spy stealing rate by 25%. Each building like this one provides an additional spy. Maximum of 3 of these buildings in your empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SECURITY_BUREAU_TEXT">
+			<Text>[TAB]As long as there has been espionage, there has been a need for counter-espionage. This is the realm of the Security Bureau. Bureaus like the American FBI or the British MI5 make sure that sensitive intelligence is protected from outside sources. While espionage is an ancient practice, most Security Bureaus are less than one hundred years old. MI5 has only been in existence since 1909, organized originally to fight against German spies before World War I. The FBI began its expansion in the 1930s thanks to J. Edgar Hoover, the Bureau's first director.</Text>
+		</Row>
+		<!-- Enlightenment Era -->
+		<!--===============================================================-->
+		<!--===== Buildings ===============================================-->
+		<!--===============================================================-->
+		<!--Academy-->
+		<Row Tag="TXT_KEY_BUILDING_EE_ACADEMY">
+			<Text>Academy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_ACADEMY_HELP">
+			<Text>City must not contain a Salon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_ACADEMY_PEDIA">
+			<Text>An academy is an organized body of scholars supported by state funding, though generally independent of direct government influence, that coordinates research, establishes standards for their respective fields, and maintain various research facilities within their jurisdiction. The amount of power and influence an academy yields varies considerable between nations. In some, the a single academy may oversee multiple, or all, scientific disciplines, while in others each discipline is guided by its own academy. While academies dedicated to the natural sciences began forming in the 1600s, they truly began to flourish in the 1700s as royalty throughout Europe followed the model set by Frederick III of Prussia when he founded the Prussian Academy of Sciences in 1700.</Text>
+		</Row>
+		<!--Bastion-->
+		<Row Tag="TXT_KEY_BUILDING_EE_BASTION">
+			<Text>Bastion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_BASTION_HELP">
+			<Text>City must have a Castle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_BASTION_PEDIA">
+			<Text>A bastion is an angular projection extending from a fortification, specifically designed to address the changes gunpowder had brought to the landscape of war. Their angular shape eliminated dead space in front of the bastion, allowing neighboring bastions to fire upon enemies should they reach the base. Bastions tend to be short and broad, providing ample room for cannons and their crews while presenting a smaller profile for enemy artillery to attack. Should a cannonball strike the bastion and penetrate its stone facade, the interior of hard-packed earth and rubble would absorb the blow. Advances in artillery during the 19th Century, however, would render even these defensive measures obsolete.</Text>
+		</Row>
+		<!--Cloth Mill-->
+		<Row Tag="TXT_KEY_BUILDING_EE_CLOTH_MILL">
+			<Text>Cloth Mill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_CLOTH_MILL_HELP">
+			<Text>Each source of [ICON_RES_COTTON] Cotton, [ICON_RES_SHEEP] Sheep and [ICON_RES_SILK] Silk worked by this City produces +2 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_CLOTH_MILL_PEDIA">
+			<Text>A cloth mill is an early mechanized workshop for the production of yarn and cloth that set the stage for the development of factories during the Industrial Revolution. Initially cloth mills were dependent upon fast-moving streams and rivers to drive their water wheels, but in time they would rely upon steam to turn their machinery. The first cloth mills were developed in northern England in 1740s, but soon spread the American colonies and beyond.</Text>
+		</Row>
+		<!--Drydock-->
+		<Row Tag="TXT_KEY_BUILDING_EE_DRYDOCK">
+			<Text>Drydock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_DRYDOCK_HELP">
+			<Text>Naval units trained in this city have +15% combat strength. City must contain a Seaport.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_DRYDOCK_PEDIA">
+			<Text>A drydock is a rectangular basin that can be flooded and drained to facilitate the construction and maintenance of ships and other watercraft.  Vessels are constructed or repaired in the drydock while it is drained. Once the vessel is ready to set sail, the dock is filled with water. Most drydocks are stationary docks built along the coast, though mobile floating drydocks exist that can take smaller vessels aboard for repairs.</Text>
+		</Row>
+		<!--Gallery-->
+		<Row Tag="TXT_KEY_BUILDING_EE_GALLERY">
+			<Text>Gallery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_GALLERY_HELP">
+			<Text>Contains one Great Work of Art slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_GALLERY_PEDIA">
+			<Text>Galleries are places where art is exhibited, either for the general public or for a private audience. Churches, monasteries, and the palaces of monarchs tended to serve as public galleries in medieval Europe, showcasing religious relics and paintings. Private collections held by nobility were also commonplace, and were often, upon condition, opened to the public.[NEWLINE][NEWLINE]By the 18th century, many of these private collections became nationalised and put on public display in newly established art museums. One of the most prestigious examples is the State Hermitage Museum in Russia, to which Catherine the Great purchased and donated many fine collections of art. Today, public galleries continue to be used as a means to display the cultural pride of a nation.</Text>
+		</Row>
+		<!--Gunsmith-->
+		<Row Tag="TXT_KEY_BUILDING_EE_GUNSMITH">
+			<Text>Gunsmith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_GUNSMITH_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production when building Gunpowder Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_GUNSMITH_PEDIA">
+			<Text>Gunsmiths are skilled craftsmen devoted to the design, modification, manufacture and repair of firearms. Before the advent of Eli Whitney's Mill River Armory in the 1790s AD Samuel Colt's mass production of handguns at his factories in Hartford (USA) and London (UK) in the mid-1800s, the gunsmith shop was a vital establishment in any "civilized" settlement.</Text>
+		</Row>
+		<!--Armory-->
+		<Row Tag="TXT_KEY_BUILDING_EE_ARMORY_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production when building Melee Units.</Text>
+		</Row>
+		<!--Stock-->
+		<Row Tag="TXT_KEY_BUILDING_EE_STOCK_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production when building Ranged or Siege Units.</Text>
+		</Row>
+		<!--Manor-->
+		<Row Tag="TXT_KEY_BUILDING_EE_MANOR">
+			<Text>Manor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_MANOR_HELP">
+			<Text>+15% Generation of [ICON_GREAT_PEOPLE] Great People</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_MANOR_PEDIA">
+			<Text>During the Middle Ages, the manor house was the dwelling of the lord of the manor (or the residential bailiff) and the administrative center of his feudal estate. The medieval manor was generally fortified in proportion to the degree of peaceful settlement of the country or region in which it was located. It served as the center of secular village life, and its great hall was the scene of the manorial court and the place of assembly of the tenantry. With increased prosperity and the desire for more commodious dwellings, the 16th-century manor house evolved into the Renaissance country house. In England more elaborate buildings were constructed, reflecting a new era of formality. The houses were frequently of regular quadrangular plan, with the hall diminished in size and importance. In later years the title of manor house in England lost particular significance, having been adopted by large country mansions that had no manorial foundation.</Text>
+		</Row>
+		<!--Menagerie-->
+		<Row Tag="TXT_KEY_BUILDING_EE_MENAGERIE">
+			<Text>Menagerie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_MENAGERIE_HELP">
+			<Text>Cannot provide more [ICON_HAPPINESS_1] Happiness than there are citizens in the city. City must have a Tavern.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_MENAGERIE_PEDIA">
+			<Text>The oldest known zoological menagerie (or "zoo") has been excavated at Hierakonpolis and dates to c. 3500 BC; the oldest existing zoo, the Tiergarten Schoenbrunn in Vienna, evolved from the exotic animal collection maintained by the Habsburg dynasty and was opened to the public in 1765 AD.</Text>
+		</Row>
+		<!--Salon-->
+		<Row Tag="TXT_KEY_BUILDING_EE_SALON">
+			<Text>Salon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_SALON_HELP">
+			<Text>City must not contain an Academy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_SALON_PEDIA">
+			<Text>A salon is a place where people would gather to participate in sophisticated discussion. First appearing in Italy during the 16th century, most salons are associated with those which flourished in France during the Enlightenment. There, the wealthy and intellectual would meet in order to entertain and to expand upon their knowledge of refinements such as art, philosophy, and poetry. Salons were often the staging point for the great literary and philosophical movements of the 18th and 19th centuries.</Text>
+		</Row>
+		<!--Tavern-->
+		<Row Tag="TXT_KEY_BUILDING_EE_TAVERN">
+			<Text>Tavern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_TAVERN_HELP">
+			<Text>It cannot provide more [ICON_HAPPINESS_1] Happiness than there are [ICON_CITIZEN] Citizens in the city. City must contain a Colosseum.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_TAVERN_PEDIA">
+			<Text>Establishments for the dispensation and consumption of alcoholic beverages have been a fixture of cities throughout human civilization. The Babylonian Code of Hammurabi suggests the death penalty for proprietors diluting beer, while the ancient Greek lesche and phatnai catered to the needs of foreign traders and envoys. The traditional English tavern has its roots in the Roman period and, although still considered a place of ill-repute, the taberna was understood as a higher class establishment than the similar caupona which served slaves and the lower classes. Tabernae eventually evolved into alehouses run by women and finally the medieval English inn; sanctuaries for wayfaring strangers, thieves, and political malcontents. By the middle of the 16th century the dining-out habit was well established among townsmen of all classes, and the tavern originated the custom of providing a daily meal at a fixed time. As taverns gradually became more socially acceptable, some of the better houses became regular meeting halls and unofficial clubhouses providing companionship to the masses.</Text>
+		</Row>
+		<!--Customs House-->
+		<Row Tag="TXT_KEY_BUILDING_EE_WEIGH_HOUSE">
+			<Text>Weigh House</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_WEIGH_HOUSE_HELP">
+			<Text>Boosts [ICON_GOLD] Gold output of the city by 25% and increase [ICON_GOLD] Gold provided by Sea Routes. City must contain a Bank and be built on the coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_WEIGH_HOUSE_PEDIA">
+			<Text>A weigh house is building in which goods are weighed so that taxes might be reliably levied on trade within a city and that disputes regarding the quantity and quality of trade goods might be accurately resolved. Such buildings might be controlled by the city, merchant guilds, or, more rarely, but foreign merchants granted special privileges within the city. Prior to the spread of international standard measurements, a typical weigh house could be found near a city’s market or center, or within its town hall, guild hall, or courthouse.</Text>
+		</Row>
+		<!--===============================================================-->
+		<!--====== Wonders ================================================-->
+		<!--===============================================================-->
+		<!--Crystal Palace-->
+		<Row Tag="TXT_KEY_BUILDING_EE_CRYSTAL_PALACE">
+			<Text>Crystal Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_CRYSTAL_PALACE_HELP">
+			<Text>+5% [ICON_GREAT_PERSON] Great Person generation for each Great Work in the city. Contains 3 Great Work of Art slots.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EE_CRYSTAL_PALACE_THEMING_BONUS_HELP">
+			<Text>To maximize your bonus, make sure the Great Work Slots are all filled with Art from the same Era but different Civilizations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_EE_CRYSTAL_PALACE">
+			<Text>Great Exhibition of {1_Era} Works</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_CRYSTAL_PALACE_QUOTE">
+			<Text>[NEWLINE]"The sun shone and gleamed upon the gigantic edifice, upon which the flags of every nation were flying..."[NEWLINE] - Queen Victoria[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_CRYSTAL_PALACE_PEDIA">
+			<Text>The Crystal Palace was designed by Sir Joseph Paxton and erected in Hyde Park, London, for the Great Exhibition of 1851. It was itself the greatest success of the Exhibition. Paxton based it upon the lily house he had built at Chatsworth for the duke of Devonshire. It was more than three times the length of St Paul's and included 294,000 panes of glass. In 1854 it was removed to Sydenham, where, until its damage by fire in 1936, it housed a museum of sculpture, pictures, and architecture and was used for concerts. In 1941 its demolition was completed because it served as a guide to enemy bombing planes. One of the most significant examples of 19th-century, proto-modern architecture, it was widely imitated in Europe and America.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_CRYSTAL_PALACE_GPPG">
+			<Text>EE: Crystal Palace GP Generation</Text>
+		</Row>
+		<!--Fasil Ghebbi-->
+		<Row Tag="TXT_KEY_BUILDING_EE_FASIL_GHEBBI">
+			<Text>Fasil Ghebbi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_FASIL_GHEBBI_HELP">
+			<Text>Friendly units within two tiles of this city have +33% combat strength</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_FASIL_GHEBBI_QUOTE">
+			<Text>[NEWLINE]"When spiders unite, they can bring down a lion."[NEWLINE] - Ethiopian Proverb[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_FASIL_GHEBBI_PEDIA">
+			<Text>Fasil Ghebbi is a fortress in Gondar, along the hillside of Ethiopia. During the 17th and 18th centuries it served as the enclosure for Ethiopia’s emperors. The architecture of the fort is unique to Ethiopia, bending the styles of Nubian, Arabian and Baroque architecture. The site houses castles, Iyasu’s Palace, stables and three churches amongst other rooms. Before the building of the fort in about 1635 the emperors of Ethiopia travelled and lived off the land, resting in tents. Emperor Fasilides broke this tradition by founding the city of Gondar and establishing it as his capital. Upon founding the city Fasilides then instructed the creation of ‘Fasil Gemb’ - Fasilides Castle. Since his death later emperors expanded on Fasil Gemb to eventually cover roughly 70,000 square meters of fortified space. The historian Thomas Pakenham visited the site during the 1950’s, noting that among the halls and palaces were what appeared to be pavilions and kiosks of the imperial city therein. Since 1979 Fasil Ghebbi is a World Heritage Site.</Text>
+		</Row>
+		<!--Kronborg-->
+		<Row Tag="TXT_KEY_BUILDING_EE_KRONBORG">
+			<Text>Kronborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_KRONBORG_HELP">
+			<Text>+25 HP in all coastal cities, +50% production for naval units in the city where the wonder is built in. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_KRONBORG_QUOTE">
+			<Text>[NEWLINE]"Where there is no discipline, there is no honour."[NEWLINE] - Norse Saying[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_KRONBORG_PEDIA">
+			<Text>Kronborg is a large star fortress located on the North-eastern tip of the Danish island of Zealand, near the town of Helsingør. It was constructed under the reign of Eric of Pomerania during the 1420s. Along with Kärnan, another Danish fortress situated across the 4km wide Øresund, it was built predominantly to control the entrance to the Baltic Sea. This allowed for the Danish King to demand Øresundstolden, or Sound Dues. This was where all ships entering the Baltic had to pay a tax to the Danish king. If they refused, the cannons on either side of the sound would open fire on the ship and sink it. [NEWLINE][NEWLINE]In 1585 the castle was rebuilt under Frederick II of Denmark. This is when the castle became the large Rennaisance castle which it is now. In 1639 the castle was rebuilt by King Christian IV, after a fire ten years earlier. Less than 20 years later the castle was conquered by a Swedish army under Carl Gustaf Wrangel. Following this, the castle was heavily fortified moreso than before.</Text>
+		</Row>
+		<!--Smithsonian Institute-->
+		<Row Tag="TXT_KEY_BUILDING_EE_SMITHSONIAN">
+			<Text>Smithsonian Institute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_SMITHSONIAN_HELP">
+			<Text>+150 Science for expending Great People. Receive a free Academy in the city where the wonder is built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_SMITHSONIAN_QUOTE">
+			<Text>[NEWLINE]"The best prophet of the future is the past."[NEWLINE] - Lord George Gordon Byron[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EE_SMITHSONIAN_THEMING_BONUS_HELP">
+			<Text>To maximize your bonus, make sure all Great Works are Artifacts and are all from different civilizations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_EE_SMITHSONIAN">
+			<Text>The Nation's Attic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_SMITHSONIAN_PEDIA">
+			<Text>Established in 1846 "for the increase and diffusion of knowledge," the Smithsonian Institute is a group of museums and research centers administered by the United States government. Originally organized as the "United States National Museum," that name ceased to exist as an administrative entity in 1967 in favour of the current name, which refers to the British scientist James Smithson, the money of whom served as the basis for the establishment of the institution. Colloquially referred to as "the Nation's Attic" for its eclectic holdings of some 137 million items, the Institute's Washington, D.C. nucleus of nineteen museums, nine research centers, and a zoo — many of them historical or architectural landmarks of their own right — is the largest such complex in the world. Additional facilities are located across the United States and her former holdings, with such establishments being found in Arizona and New York City (among others in American territory) and as far afield as Panama. In addition to this, 168 other museums across the world are Smithsonian affiliates.</Text>
+		</Row>
+		<!--Topkapi Palace-->
+		<Row Tag="TXT_KEY_BUILDING_EE_TOPKAPI">
+			<Text>Topkapi Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_TOPKAPI_HELP">
+			<Text>+2 [ICON_PEACE] Faith from Military buildings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_TOPKAPI_QUOTE">
+			<Text>[NEWLINE]"The city and the buildings are mine; but I resign to your valor the captives and the spoil, the treasures of gold and beauty; be rich and be happy"[NEWLINE] - Mehmet II[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_TOPKAPI_PEDIA">
+			<Text>Overlooking the waters of the Bosphorous, Topkapi Palace is a large palace complex located on the European side of Istanbul, Turkey. It was constructed under the orders of Mehmed II "The Conqueror", under whom the city was captured from the Byzantines and renamed Istanbul, as part of a scheme to re-build the city following the sucessful Ottoman siege. The palace served as the official residence of the Ottoman sultans for nearly four centuries of their rule, lasting until Sultan Abdul Mecid I moved the court to a newly-built palace further up the Bosphorous in 1856. Topkapi Palace is in fact more of a walled village than a palace, with several small buildings and many courtyards as opposed to one central structure. The site is home to many relics and artefacts collected both by the Sultans and following the end of the Ottoman empire when the palace was turned into a Museum. Among these are relics sacred to the Islamic world, including a door to the Great Mosque of Mecca, as well as what is said to be the cloak and sword of the prophet Muhammed. Other items include many collected from Silk Road trade, such as various pieces of Chinese porcelain from across four different dynasties of rule, and a collection of Islamic weaponry spanning approximately 13 centuries. Although the palace is largely still intact, some parts have since been lost as a result of either Earthquakes or fire.</Text>
+		</Row>
+		<!--Torre Del Oro-->
+		<Row Tag="TXT_KEY_BUILDING_EE_TORRE">
+			<Text>Torre Del Oro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_TORRE_HELP">
+			<Text>Naval trade routes originating from this city have a 50% increase in range, and provide +3 gold for both parties. City must be built on the coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_TORRE_QUOTE">
+			<Text>[NEWLINE]"Gold is a treasure, and he who possesses it does all he wishes to in this world, and succeeds in helping souls into paradise"[NEWLINE] - Christopher Columbus[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_TORRE_PEDIA">
+			<Text>Torre Del Oro (Spanish for Tower of Gold) was constructed in the Spanish city of Seville during the 13th century by Berbers who were occupying Southern Spain at the time. It was originally constructed as a military watchtower, however after the Reconquista and discovery of the new world it was used as a treasury of sorts, storing precious metals which had been shipped from the new worlds aboard Spanish treasure fleets, inadvertedly transforming Seville into a very wealthy city and 'gateway to the new world'.  </Text>
+		</Row>
+		<!--Versailles-->
+		<Row Tag="TXT_KEY_BUILDING_EE_VERSAILLES">
+			<Text>Versailles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_VERSAILLES_HELP">
+			<Text>Extends the length of We Love The King Day by 50% empire-wide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_VERSAILLES_QUOTE">
+			<Text>[NEWLINE]"Every time I create an appointment, I create a hundred malcontents and one ingrate."[NEWLINE] - Louis XIV[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_VERSAILLES_PEDIA">
+			<Text>The Château de Versailles is one of the most beautiful achievements of 18th-century French art. The site began as Louis XIII's hunting lodge before his son Louis XIV transformed and expanded it, moving the court and government of France to Versailles in 1682. Each of the three French kings who lived there until the French Revolution added improvements to make it more beautiful.[NEWLINE][NEWLINE]The château lost its standing as the official seat of power in 1789 but acquired a new role in the 19th century as the Museum of the History of France, which was founded at the behest of Louis-Philippe, who ascended to the throne in 1830. That is when many of the château's rooms were taken over to house the new collections, which were added to until the early 20th century, tracing milestones in French history.</Text>
+		</Row>
+		<!--Wat Arun-->
+		<Row Tag="TXT_KEY_BUILDING_EE_WAT_PHRA_KAEW">
+			<Text>Wat Phra Kaew</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_WAT_PHRA_KAEW_HELP">
+			<Text>+2 [ICON_SCIENCE] Science from Religious buildings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_WAT_PHRA_KAEW_QUOTE">
+			<Text>[NEWLINE]"Better than a thousand useless words is one useful word, hearing which one attains peace."[NEWLINE] - The Dhammapada, verse 100[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_WAT_PHRA_KAEW_PEDIA">
+			<Text>Wat Phra Kaew, or the Temple of the Emerald Buddha, (officially known as Wat Phra Sri Rattana Satsadaram) is regarded as the most important Buddhist temple in Thailand. Located in the historic centre of Bangkok, within the grounds of the Grand Palace, it enshrines Phra Kaew Morakot (the Emerald Buddha), the highly revered Buddha image meticulously carved from a single block of jade. The Emerald Buddha (Phra Putta Maha Mani Ratana Patimakorn) is a Buddha image in the meditating position in the style of the Lanna school of the north, dating from the 15th century AD.[NEWLINE][NEWLINE]Raised high on a series of platforms, no one is allowed near the Buddha except the King. A seasonal cloak, changed three times a year to correspond to the summer, winter, and rainy season covers the statue. A very important ritual, the changing of the robes is performed only by the King to bring good fortune to the country during each season.[NEWLINE][NEWLINE]The construction of the temple started when King Buddha Yodfa Chulaloke (Rama I) moved the capital from Thonburi to Bangkok in 1785. Unlike other temples, it does not contain living quarters for monks; rather, it has only elaborately decorated holy buildings, statues, and pagodas. The main building is the central 'ubosot' (ordination hall), which houses the Emerald Buddha.</Text>
+		</Row>
+		<!--National Wonders-->
+		<!--Summer Palace-->
+		<Row Tag="TXT_KEY_BUILDING_EE_SUMMER_PALACE">
+			<Text>Summer Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_SUMMER_PALACE_HELP">
+			<Text>Provides a free [ICON_GREAT_PERSON] Great Person of your choice near the [ICON_CAPITAL] Capital.[NEWLINE][NEWLINE]Must have built a Manor in all Cities. The cost goes up the more cities there are in the empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_SUMMER_PALACE_PEDIA">
+			<Text>The Summer Palace is a complex of gardens, lakes and buildings that was constructed in Beijing under the order of the Qianlong Emperor, of the Qing Dynasty, in 1749.  The project required the creation of artificial lakes in the area, as the palace and surrounding farmland required waterworks and irrigation.  The palace’s design was based off of various aspects of China’s myths, legends, and natural and man-made wonders.  The palace fell into decline along with the Qing dynasty, and was damaged by the British and French during the Second Opium War.  After the fall of Qing, the complex fell into the possession of the former imperial family, now powerless.  It was opened to the public in 1924, after the last emperor, Puyi, was expelled.  Since 1953, the government of the People’s Republic of China have renovated the palace, which is now a World Heritage Site.</Text>
+		</Row>
+		<!-- Buildings names -->
+		<Row Tag="TXT_KEY_BUILDING_MAGNETIC_RADIATOR">
+			<Text>Magnetic Radiator</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GENIC_MANUFACTORY">
+			<Text>Genic Manufactory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SHALE_OIL_WELL">
+			<Text>Shale Oil Well</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CARBON_FOUNDRY">
+			<Text>Carbon Foundry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_IRON_FOUNDRY">
+			<Text>Iron Foundry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HYDROELECTRIC">
+			<Text>Hydroelectric</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INDUSTRIAL_PARK">
+			<Text>Industrial Park</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THERMIC_PLANT_COAL">
+			<Text>Thermic Plant (Coal)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THERMIC_PLANT_OIL">
+			<Text>Thermic Plant (Oil)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCOLOGY">
+			<Text>Arcology</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HYDROPONICS">
+			<Text>Hydroponics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PUBLIC_TRANSPORTATION">
+			<Text>Public Transportation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GENIC_LAB">
+			<Text>Genic Lab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CLONING_FACTORY">
+			<Text>Cloning Factory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIOLOGICAL_WARFARE_LAB">
+			<Text>Biological Warfare Lab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MIND_CONTROL_CENTER">
+			<Text>Mind Control Center</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COLD_FUSION_PLANT">
+			<Text>Cold Fusion Plant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCOLOGY_SHIELDING">
+			<Text>Arcology Shielding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DEFLECTOR_SHIELDING">
+			<Text>Deflector Shielding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUPERMARKET">
+			<Text>Supermarket</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WIND_TURBINE">
+			<Text>Wind Turbine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ODEON">
+			<Text>Odeon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HIPPODROME">
+			<Text>Hippodrome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STATION">
+			<Text>Station</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VEHICLE_FACTORY">
+			<Text>Vehicle Factory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AIRCRAFT_FACTORY">
+			<Text>Aircraft Factory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOODS_FACTORY">
+			<Text>Goods Factory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JAIL">
+			<Text>Jail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SECURITY_BUREAU">
+			<Text>Security Bureau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIOMETALLIC_DOME">
+			<Text>Biometallic Dome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MRI_MACHINE">
+			<Text>MRI Machine</Text>
+		</Row>
+	</Language_en_US>
+
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_SHALE_OIL_WELL_HELP">
+			<Text>Fournit 7 unités de [ICON_RES_OIL] Pétrole.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CARBON_FOUNDRY_HELP">
+			<Text>Fournit 5 unités de [ICON_RES_COAL] Charbon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_IRON_FOUNDRY_HELP">
+			<Text>Fournit 3 unités de [ICON_RES_IRON] Fer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HYDROELECTRIC_HELP">
+			<Text>Cases côtières et d'océan : [ICON_PRODUCTION] production +1. Ressources marines exploitées par la ville : [ICON_FOOD] nourriture +2.[NEWLINE][NEWLINE]La ville doit se trouver sur la côte.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INDUSTRIAL_PARK_HELP">
+			<Text>Chaque source de [ICON_RES_COAL] charbon et de [ICON_RES_OIL] pétrole exploitée par la ville fournit +2 [ICON_PRODUCTION] Production. La ville doit posséder une Usine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THERMIC_PLANT_COAL_HELP">
+			<Text>Nécessite 1 [ICON_RES_COAL] Charbon. Ne peut être construite dans une ville possédant déjà une Centrale solaire, une Centrale nucléaire ou une autre Centrale thermique. La ville doit posséder une Usine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THERMIC_PLANT_OIL_HELP">
+			<Text>Nécessite 1 [ICON_RES_OIL] Pétrole. Ne peut être construite dans une ville possédant déjà une Centrale solaire, une Centrale nucléaire ou une autre Centrale thermique. La ville doit posséder une Usine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCOLOGY_HELP">
+			<Text>Un quart de la nourriture est transférée après la naissance d'un nouveau citoyen. La ville doit posséder une Zone industrielle ou un Dôme biométallique.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCOLOGY_TEXT">
+			<Text>[TAB]Une "arcologie" est un bâtiment créé par l'homme pour accueillir une formidable densité de population. Pour rendre l'arcologie entièrement autonome, il est nécessaire d'en contrôler parfaitement l'environnement. À mesure que les villes modernes se sont agrandies, elles ont puisé dans les ressources environnantes jusqu'à un point de non-retour. Les plus grandes villes de la planète sont devenues, par la force des choses, des arcologies dont la survie a nécessité la création de dômes gigantesques qui permettaient un meilleur contrôle de la population et de l'environnement. [PARAGRAPH:1]Les villes "coiffées" d'un dôme sont plus efficaces que les autres. En effet, elles ne subissent plus les aléas de l'environnement ni la propagation de maladies par l'eau ou par l'air. Le climat dans une arcologie est maintenu à température constante, afin de rendre le chauffage et la climatisation inutiles. L'approvisionnement en air et en eau est constamment traité afin de supprimer tout microbe ou impureté, ce qui augmente l'espérance de vie des habitants et permet de réduire les besoins de la ville en infrastructures médicales. Les repas sont produits et distribués dans d'immenses cafétérias, ce qui permet un apport nutritionnel optimal et rend obsolète les nombreux échelons de l'industrie alimentaire classique. [PARAGRAPH:1]L'augmentation de la densité de population n'est pas sans présenter quelques inconvénients. A mesure que la population croît, le niveau de stress augmente et avec lui les risques de maladies mentales ou de dépressions. Les dirigeants de la ville combattent ces problèmes par l'éducation, par une surveillance psychologique accrue de la population et, dans les cas les plus extrêmes, par l'adjonction de tranquillisants à la nourriture distribuée aux citoyens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HYDROPONICS_HELP">
+			<Text>Chaque case de rivière exploitée par la ville fournit +2 [ICON_FOOD] Nourriture. La ville doit se situer à proximité d'une rivière.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PUBLIC_TRANSPORTATION_HELP">
+			<Text>Nécessite 1 [ICON_RES_OIL] Pétrole. Ne peut fournir plus de [ICON_HAPPINESS_1] Bonheur que la ville a d'habitants.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GENIC_LAB_HELP">
+			<Text>5% de la nourriture est transférée après la naissance d'un nouveau citoyen. Ne peut fournir plus de [ICON_HAPPINESS_1] Bonheur que la ville a d'habitants. La ville doit posséder un Laboratoire de recherche et un Laboratoire médical.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CLONING_FACTORY_HELP">
+			<Text>Est requise pour pouvoir construire des Clones, des Automates et des Cyborgs. Ne peut fournir plus de [ICON_HAPPINESS_1] Bonheur que la ville a d'habitants.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CLONING_FACTORY_TEXT">
+			<Text>[TAB]Une usine de clonage est un grand bâtiment qui peut contenir des centaines (voire des milliers) de cuves remplies d'un liquide visqueux, dans lequel des corps de clones humains poursuivent leur croissance. Des ingénieurs et des ordinateurs contrôlent chaque cuve pour s'assurer que le clone reçoit les doses de nutriments, de chaleur, de lumière et d'oxygène nécessaires à sa maturation.[NEWLINE]Au début du clonage, les scientifiques ne savaient pas développer un clone plus rapidement que le rythme de croissance humain normal. Mais les progrès de la technologie ont révolutionné cette pratique. Aujourd'hui, le corps d'un clone atteint en à peine six ans le niveau de développement d'un humain de vingt ans.[NEWLINE]Si les capacités mentales d'un clone sont insignifiantes, ses organes sont en tous points identiques à ceux de son modèle et peuvent facilement lui être transplantés. En outre, de nouveaux progrès technologiques ont permis d'implanter des programmes informatiques dans le cerveau des clones, qui peuvent ainsi être transformés en ouvriers capables de travaux rudimentaires.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIOLOGICAL_WARFARE_LAB_HELP">
+			<Text>Est requis pour pouvoir construire des Missiles de guerre biologique.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIOLOGICAL_WARFARE_LAB_TEXT">
+			<Text>[TAB]Les laboratoires de guerre biologique sont conçus pour créer et produire des armes biologiques. En outre, ils travaillent aussi à la mise au point d'antidotes, afin de lutter contre les effets des agents biologiques ennemis (ou alliés). Ces bâtiments font donc partie intégrante du dispositif de défense d'une ville. Toutefois, malgré la fiabilité de leur système de protection, ces installations restent très impopulaires auprès des populations riveraines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MIND_CONTROL_CENTER_HELP">
+			<Text>Ne peut fournir plus de [ICON_HAPPINESS_1] Bonheur que la ville a d'habitants.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MIND_CONTROL_CENTER_TEXT">
+			<Text>[TAB]À mesure que les populations continuent de croître, augmentant le stress et le mécontentement dans les villes, le recours aux centres de contrôle mental tend à se généraliser. Mieux connus sous le nom de "zones d'amusement", ces bâtiments diffusent en permanence un flux d'images joyeuses accessibles à tous les individus équipés d'un récepteur neural (aussi appelé "implant cérébral").[NEWLINE]Si les personnes dotées d'implants cérébraux voient généralement leur productivité, leur créativité et leur intellect se détériorer, elles ne ressentent plus aucun mécontentement, quelles que soient les circonstances - à condition que des signaux continuent à accaparer l'attention de leurs cerveaux.[NEWLINE]Malgré tous les avantages qu'il présente, construire un centre de contrôle mental n'est pas une décision à prendre à la légère. Le taux de dépendance des individus équipés d'un implant est de 100% et en cas de manque, le traumatisme mental peut aller de la catatonie à la folie meurtrière. Autrement dit, une fois qu'une ville a adopté ce système, elle ne peut plus faire machine arrière. Il est en outre impératif de prévoir des solutions de secours en cas de panne.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COLD_FUSION_PLANT_HELP">
+			<Text>Nécessite 2 [ICON_RES_URANIUM] Uranium. La ville doit posséder une Usine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCOLOGY_SHIELDING_HELP">
+			<Text>Ne peut fournir plus de [ICON_HAPPINESS_1] Bonheur que la ville a d'habitants. La ville doit posséder une Arcologie.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCOLOGY_SHIELDING_TEXT">
+			<Text>[TAB]Bien que potentiellement capables de résister aux variations climatiques et autres facteurs naturels, les arcologies restent extrêmement vulnérables aux attaques. Afin de se protéger, les villes géantes peuvent ajouter des boucliers mécaniques et électromagnétiques à leur dôme. Si ces dispositifs ne sont pas d'une efficacité totale en cas d'attaque, ils présentent l'avantage d'offrir une certaine protection aux populations civiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DEFLECTOR_SHIELDING_HELP">
+			<Text>Ne peut fournir plus de [ICON_HAPPINESS_1] Bonheur que la ville a d'habitants. La ville doit posséder un Bouclier d'arcologie.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DEFLECTOR_SHIELDING_TEXT">
+			<Text>[TAB]Les scientifiques et les ingénieurs civils ont toujours cherché des moyens d'améliorer les défenses d'une ville contre les attaques ennemies. Les boucliers de pointe que nous connaissons aujourd'hui sont la combinaison de plusieurs découvertes technologiques. Ils sont en effet fabriqués dans un matériau semi-organique très résistant et conçu pour "cicatriser" si une brèche s'ouvrait. Les boucliers électromagnétiques ont également été modernisés, ce qui accroît encore l'efficacité du dispositif. Le niveau de défense atteint par les boucliers de pointe n'est pas encore parfait, mais les villes qui les utilisent restent beaucoup moins vulnérables que les autres.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUPERMARKET_HELP">
+			<Text>La ville doit posséder un Marché.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ODEON_HELP">
+			<Text>Ne peut fournir plus de [ICON_HAPPINESS_1] Bonheur que la ville a d'habitants.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ODEON_TEXT">
+			<Text>L'origine du théâtre tel que nous le connaissons aujourd'hui remonte au "dithyrambe" créé en Grèce vers l'an 530 av. J.-C.. Il s'agit d'un rituel de fertilité composé de chants, de poèmes et de danse en l'hommage au dieu grec Dionysos. Les représentations ont lieu dans un "Odéon", à savoir une grande structure en plein air et le public est assis dans des gradins formant un demi-cercle autour d'une "piste de danse" pavée au centre (l'orchestre). La première rangée de sièges est réservée aux personnalités importantes et aux prêtres. L'odéon comprend toujours un autel dédié à Dionysos. Le "logeion" est une petite scène surélevée sur laquuelle jouent les acteurs (seuls trois ou quatre personnages composent les premières tragédies ; la taille de la scène augmente par la suite pour les pièces aux intervenants plus nombreux).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MRI_MACHINE_HELP">
+			<Text>Tous les Hôpitaux produisent +2 [ICON_RESEARCH] Science, +2 [ICON_FOOD] Nourriture et +1 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_HIPPODROME_HELP">
+			<Text>Nécessite 1 [ICON_RES_HORSE] Cheval. Ne peut fournir plus de [ICON_HAPPINESS_1] Bonheur que la ville a d'habitants.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_HIPPODROME_TEXT">
+			<Text>L'hippodrome de Constantinople (littéralement "Chemin du cheval" en grec) fut construit en 203 ap. J.-C. par l'empereur Septime Sévère. Ce bâtiment est un immense lieu consacré aux courses de chars. Tandis que la consuite des chars connut de grandes avancées dans cet Hippodrome - c'est ici qu'eurent lieu les grandes courses à quatre chevaux - une grande partie de la célebrité de ce lieu est due à son rôle dans l'un des plus terribles massacres de l'histoire byzantine. Pendant l'insurrection Nika, révolte brutale qui opposa deux factions rivales, presque 30 000 insurgés furent tués par les troupes byzantines à l'intérieur de l'hippodrome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GENIC_MANUFACTORY_HELP">
+			<Text>Bâtiment requis à la construction d'Huxleys, de Krakens, de Béhémoths, de Léviathans et de Raies volantes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STATION_HELP">
+			<Text>Les routes commerciales terrestres liées à cette ville voient leur portée augmenter de 100% et leurs revenus augmenter de 3 [ICON_GOLD] Or. Les routes commerciales maritimes liées à cette ville voient leurs revenus augmenter de 1 [ICON_GOLD] Or. La ville doit posséder un Caravansérail.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VEHICLE_FACTORY_HELP">
+			<Text>Nécessite 1 [ICON_RES_COAL] Charbon. +25% [ICON_PRODUCTION] Production lors de la production d'unités blindées.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AIRCRAFT_FACTORY_HELP">
+			<Text>Nécessite 1 [ICON_RES_COAL] Charbon. +25% [ICON_PRODUCTION] Production lors de la production d'unités volantes (Dirigeables ou Hélicoptères). +15% [ICON_PRODUCTION] Production lors de la production d'unités aériennes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOODS_FACTORY_HELP">
+			<Text>Nécessite 1 [ICON_RES_OIL] Pétrole. +15% [ICON_PRODUCTION] Production lors de la production terrestres.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JAIL_HELP">
+			<Text>Réduit la vitesse de vol des espions ennemis de 15%. Ne peut fournir plus de [ICON_HAPPINESS_1] Bonheur que la ville a d'habitants. La ville doit posséder une gendarmerie.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JAIL_TEXT">
+			<Text>[TAB]Une prison est un édifice dans lequel sont enfermés les prisonniers. Les prisons peuvent varier en taille, allant d'une simple cellule à un immense complexe de bâtiments entouré de kilomètres de fils barbelés. Les motifs d'incarcération des prisonniers sont très variés. Certains peuvent être des criminels ordinaires et d'autres des meurtriers brutaux, des prisonniers politiques, des dissidents ou simplement des personnes étant tombées en disgrâce aux yeux de leurs dirigeants. Certains peuvent aussi être atteints de troubles psychologiques, l'incarcération étant un moyen courant de traiter les personnes aliénées avant que ne soient créés les hôpitaux psychiatriques et les sanatoriums. [PARAGRAPH:1]Les infrastructures à l'intérieur des prisons sont très variables. Une prison pour prisonniers ordinaires ou ennemis de l'Etat peut être épouvantable, constituée de fosses sombres et surpeuplées, infestées par les rats, tandis que la prison d'un roi peut être difficile à distinguer des quartiers royaux, la distinction apparaissant en observant de quel côté de la porte se trouve le garde. Généralement, les prisons sont des lieux désagréables et tristes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SECURITY_BUREAU_HELP">
+			<Text>Réduit la vitesse de vol des espions ennemis de 25%. Vous gagnez un nouvel espion lorsqu'un bâtiment de ce type est construit. Seulement 3 bâtiments de ce type peuvent être construits dans tout votre empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SECURITY_BUREAU_TEXT">
+			<Text>[TAB]Depuis que l'espionnage existe, on a toujours eu besoin de pouvoir exécuter des missions de contre-espionnage. C'est le domaine de l'agence de sécurité. Les agences comme le FBI américain ou le MI5 anglais ont pour mission de protéger les données sensibles contre toute intrusion extérieure. L'espionnage est une pratique ancienne, mais la plupart des agences de sécurité ont moins d'un siècle d'existence. Le MI5 n'a été créé qu'en 1909, à l'origine pour lutter contre les espions allemands avant le début de la première guerre mondiale. Le FBI, quant à lui, entame son expansion dans les années 1930 grâce à J. Edgar Hoover, premier directeur de l'agence.</Text>
+		</Row>
+		<!-- Enlightenment Era -->
+		<!--Academy-->
+		<Row Tag="TXT_KEY_BUILDING_EE_ACADEMY">
+			<Text>Académie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_ACADEMY_HELP">
+			<Text>La ville ne doit pas posséder de Salon, l'obligeant ainsi à se spécialiser dans la Science ou la Culture.</Text>
+		</Row>
+		<!--Bastion-->
+		<Row Tag="TXT_KEY_BUILDING_EE_BASTION">
+			<Text>Bastion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_BASTION_HELP">
+			<Text>La ville doit posséder un Château.</Text>
+		</Row>
+		<!--Cloth Mill-->
+		<Row Tag="TXT_KEY_BUILDING_EE_CLOTH_MILL">
+			<Text>Fabrique de textiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_CLOTH_MILL_HELP">
+			<Text>Chaque source de [ICON_RES_COTTON] Coton, de [ICON_RES_SHEEP] Mouton et de [ICON_RES_SILK] Soie exploitée par la ville produit +2 [ICON_GOLD] Or.</Text>
+		</Row>
+		<!--Drydock-->
+		<Row Tag="TXT_KEY_BUILDING_EE_DRYDOCK">
+			<Text>Cale sèche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_DRYDOCK_HELP">
+			<Text>Les unités navales entraînées dans cette ville profitent d'un bonus de combat de +15%. La ville doit posséder un Port.</Text>
+		</Row>
+		<!--Gallery-->
+		<Row Tag="TXT_KEY_BUILDING_EE_GALLERY">
+			<Text>Galerie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_GALLERY_HELP">
+			<Text>Contient un emplacement de chef-d'oeuvre artistique.</Text>
+		</Row>
+		<!--Gunsmith-->
+		<Row Tag="TXT_KEY_BUILDING_EE_GUNSMITH">
+			<Text>Armurerie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_GUNSMITH_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production lors de la production d'unités équipées d'armes à feu.</Text>
+		</Row>
+		<!--Armory-->
+		<Row Tag="TXT_KEY_BUILDING_EE_ARMORY">
+			<Text>Armurerie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_ARMORY_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production lors de la production d'unités de combat rapproché.</Text>
+		</Row>
+		<!--Stock-->
+		<Row Tag="TXT_KEY_BUILDING_EE_STOCK">
+			<Text>Réserve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_STOCK_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production lors de la production d'unités équipées d'un arc ou d'unités de siège.</Text>
+		</Row>
+		<!--Manor-->
+		<Row Tag="TXT_KEY_BUILDING_EE_MANOR">
+			<Text>Demeure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_MANOR_HELP">
+			<Text>+15% Génération de [ICON_GREAT_PEOPLE] Personnages illustres.</Text>
+		</Row>
+		<!--Menagerie-->
+		<Row Tag="TXT_KEY_BUILDING_EE_MENAGERIE">
+			<Text>Ménagerie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_MENAGERIE_HELP">
+			<Text>Ne peut fournir plus de [ICON_HAPPINESS_1] Bonheur que la ville a d'habitants. La ville doit posséder une Taverne.</Text>
+		</Row>
+		<!--Salon-->
+		<Row Tag="TXT_KEY_BUILDING_EE_SALON">
+			<Text>Salon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_SALON_HELP">
+			<Text>La ville ne doit pas posséder d'Académie, l'obligeant ainsi à se spécialiser dans la Science ou la Culture.</Text>
+		</Row>
+		<!--Tavern-->
+		<Row Tag="TXT_KEY_BUILDING_EE_TAVERN">
+			<Text>Taverne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_TAVERN_HELP">
+			<Text>Ne peut fournir plus de [ICON_HAPPINESS_1] Bonheur qu'il n'y a de [ICON_CITIZEN] Citoyens dans la ville. La ville doit posséder un Colisée.</Text>
+		</Row>
+		<!--Customs House-->
+		<Row Tag="TXT_KEY_BUILDING_EE_WEIGH_HOUSE">
+			<Text>Maison des mesures</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_WEIGH_HOUSE_HELP">
+			<Text>Augmente la production d' [ICON_GOLD] Or de la ville de 25% et augmente les revenus reçus par les routes commerciales maritimes. La ville doit posséder une Banque et être côtière.</Text>
+		</Row>
+		<!--Crystal Palace-->
+		<Row Tag="TXT_KEY_BUILDING_EE_CRYSTAL_PALACE">
+			<Text>Palais de Cristal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_CRYSTAL_PALACE_HELP">
+			<Text>+5% [ICON_GREAT_PERSON] Génération de personnages illustres pour chaque chef-d'oeuvre dans la ville. Contient 3 emplacements de chef-d'oeuvres artistiques.</Text>
+		</Row>
+		<!--Fasil Ghebbi-->
+		<Row Tag="TXT_KEY_BUILDING_EE_FASIL_GHEBBI">
+			<Text>Fasil Ghebbi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_FASIL_GHEBBI_HELP">
+			<Text>Les unités alliées se trouvant dans un rayon de deux cases autour de la ville profitent d'un bonus de combat de 33%.</Text>
+		</Row>
+		<!--Kronborg-->
+		<Row Tag="TXT_KEY_BUILDING_EE_KRONBORG">
+			<Text>Kronborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_KRONBORG_HELP">
+			<Text>+25 PV dans toutes les villes côtières. La production d'unités navales dans la ville où cette merveille a été construite augmente de 50%. La ville doit être une ville côtière.</Text>
+		</Row>
+		<!--Smithsonian Institute-->
+		<Row Tag="TXT_KEY_BUILDING_EE_SMITHSONIAN">
+			<Text>Institut Smithsonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_SMITHSONIAN_HELP">
+			<Text>+150 Science lors de l'utilisation de personnages illustres. La ville reçoit une Académie gratuite.</Text>
+		</Row>
+		<!--Topkapi Palace-->
+		<Row Tag="TXT_KEY_BUILDING_EE_TOPKAPI">
+			<Text>Palais Topkapi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_TOPKAPI_HELP">
+			<Text>+2 [ICON_PEACE] Foi de la part des bâtiments militaires.</Text>
+		</Row>
+		<!--Torre Del Oro-->
+		<Row Tag="TXT_KEY_BUILDING_EE_TORRE">
+			<Text>Torre Del Oro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_TORRE_HELP">
+			<Text>Les routes comemrciales maritimes partant de cette ville bénéficie d'une portée accrue de 50% et chacune des deux parties reçoient 3 Or supplémentaires grâce à celles-ci. La ville dout être une ville côtière.</Text>
+		</Row>
+		<!--Versailles-->
+		<Row Tag="TXT_KEY_BUILDING_EE_VERSAILLES">
+			<Text>Versailles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_VERSAILLES_HELP">
+			<Text>Augmente la durée de la Fête du Roi de 50% dans tout l'Empire.</Text>
+		</Row>
+		<!--Wat Arun-->
+		<Row Tag="TXT_KEY_BUILDING_EE_WAT_PHRA_KAEW">
+			<Text>Wat Phra Kaew</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_EE_WAT_PHRA_KAEW_HELP">
+			<Text>+2 [ICON_SCIENCE] Science de la part des bâtiments religieux.</Text>
+		</Row>
+		<!--Summer Palace-->
+		<Row Tag="TXT_KEY_BUILDING_EE_SUMMER_PALACE">
+			<Text>Palais d'Été</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EE_SUMMER_PALACE_HELP">
+			<Text>Offre un [ICON_GREAT_PERSON] Personnage illustre de votre choix qui apparaîtra près de votre [ICON_CAPITAL] Capitale.[NEWLINE][NEWLINE]Doit avoir construit une Demeure dans toutes les villes.</Text>
+		</Row>
+		<!-- Buildings names -->
+		<Row Tag="TXT_KEY_BUILDING_MAGNETIC_RADIATOR">
+			<Text>Rayonneur magnétique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GENIC_MANUFACTORY">
+			<Text>Manufacture génique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SHALE_OIL_WELL">
+			<Text>Puits de pétrole de schiste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CARBON_FOUNDRY">
+			<Text>Fonderie de carbone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_IRON_FOUNDRY">
+			<Text>Fonderie de fer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HYDROELECTRIC">
+			<Text>Hydrolienne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INDUSTRIAL_PARK">
+			<Text>Zone industrielle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THERMIC_PLANT_COAL">
+			<Text>Centrale thermique (charbon)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THERMIC_PLANT_OIL">
+			<Text>Centrale thermique (pétrole)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCOLOGY">
+			<Text>Arcologie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HYDROPONICS">
+			<Text>Cultures hydroponiques</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PUBLIC_TRANSPORTATION">
+			<Text>Transports publics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GENIC_LAB">
+			<Text>Laboratoire génique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CLONING_FACTORY">
+			<Text>Usine de clonage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIOLOGICAL_WARFARE_LAB">
+			<Text>Laboratoire de guerre biologique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MIND_CONTROL_CENTER">
+			<Text>Centre de contrôle mental</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COLD_FUSION_PLANT">
+			<Text>Centrale à fusion froide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARCOLOGY_SHIELDING">
+			<Text>Bouclier d'arcologie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DEFLECTOR_SHIELDING">
+			<Text>Bouclier de pointe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUPERMARKET">
+			<Text>Supermarché</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WIND_TURBINE">
+			<Text>Éolienne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ODEON">
+			<Text>Odéon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HIPPODROME">
+			<Text>Hippodrome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STATION">
+			<Text>Gare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VEHICLE_FACTORY">
+			<Text>Usine de véhicules</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AIRCRAFT_FACTORY">
+			<Text>Usine d'aéronautique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOODS_FACTORY">
+			<Text>Usine de biens d'équipement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JAIL">
+			<Text>Prison</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SECURITY_BUREAU">
+			<Text>Agence de sécurité</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BIOMETALLIC_DOME">
+			<Text>Dôme biométallique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MRI_MACHINE">
+			<Text>Machine à IRM</Text>
+		</Row>
+	</Language_FR_FR>
+</GameData>

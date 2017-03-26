@@ -1,0 +1,645 @@
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TECH_DARWINISM_HELP">
+			<Text>This tech allows you to build Behemoths, Kappa Launchers and Leviathans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_DARWINISM_QUOTE">
+			<Text>"It is not the strongest of species that survive, but the one most responsive to change." - Charles Darwin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MAGNETIC_RESONANCE_HELP">
+			<Text>This tech allows you to build Magnetic Radiators, Bombardment Ships and the MRI Machine, a National Wonder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MAGNETIC_RESONANCE_QUOTE">
+			<Text>"As to diseases make a habit of two things - to help, or at least to do no harm." - Hippocrate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CLANKERISM_HELP">
+			<Text>This tech allows you to build Tesla Cannons, Goliaths (though their number are limited to one per state) and Camera-Walkers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CLANKERISM_QUOTE">
+			<Text>"This is the power of Goliath, that no one on earth, Clanker or Darwinist, can escape. So we all must learn to share the globe, or perish together." - Nikola Tesla (Leviathan Series, Goliath, Scott Westerfeld)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_NATURAL_PHILOSOPHY_HELP">
+			<Text>This tech allow you to build Genic Manufactories, Krakens and Huxleys.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_NATURAL_PHILOSOPHY_QUOTE">
+			<Text>"À ceux qui descendent dans les mêmes fleuves surviennent toujours d’autres et d’autres eaux." - Arius Didyme [I don't know how to translate it in english, sorry...]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ADVANCED_MACHINERY_HELP">
+			<Text>This tech allows you to build Walkers, Dreadnoughts and Land Frigates.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ADVANCED_MACHINERY_QUOTE">
+			<Text>"A god from the machine." - Menander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_METAL_FLESH_HELP">
+			<Text>This tech allows you to build Flying Rays and Water-Walkers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_METAL_FLESH_QUOTE">
+			<Text>"Oh! I have slipped the surly bonds of Earth - Put out my hand and touched the Face of God." - John Gillepsie Magee, Junior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_AQUACULTURE_DESC">
+			<Text>[TAB]Aquaculture is the practice of cultivating the produce of water for consumption. Humans have been harvesting the bounty of the seas for all of history; however, as human population has grown exponentially, by the late twentieth century, much greater emphasis has been placed on so-called "sustainable" aquaculture.  Indeed the Treaty of Iceland, signed in 2033, mandated that, "No fish or mammal may be harvested from the ocean unless an equal or greater number of the same species are released into the wild at the same time." Unfortunately, with the collapse of the One World Government this treaty lost much of its efficacy, and the world's once-boundless supply of food is again under grave and imminent peril. [PARAGRAPH:2]Facing this dwindling supply of animal protein, aquaculture has focused upon the cultivation of oceanic vegetation like kelp and seaweed. Although plentiful, the resulting food has met with mixed reviews: while certain island and coastal cultures claim that these foods are delicacies, the rest of humanity appears to be in general agreement that they taste "like salty rubber, but not as good."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_AQUACULTURE_HELP">
+			<Text>This tech allows you to build Hydroelectrics, a building making coastal tiles providing more [ICON_PRODUCTION] Production and [ICON_FOOD] Food.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_AQUACULTURE_QUOTE">
+			<Text>>"Kelp - it's what's for breakfast!"[PARAGRAPH:1] - Advertisement for 'Kelp Krunchies' cereal </Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HYDROPONICS_DESC">
+			<Text>[TAB]Hydroponics is the science of growing vegetables in nutrient solutions rather than in soil. The earliest references to hydroponics date back to the seventeenth century, and while notable advances in research were seen over the following centuries, the first practical applications of hydroponics did not appear until the early twentieth century, and mass adoption didn't occur until the middle of the twenty-first century. There are two primary benefits to growing plants in nutrient solutions rather than in soil: the nutrient solution can be sterilized (unlike soil), greatly reducing the occurrence of disease and pests in the plants, and a much greater number of crops can be grown in a small area. [PARAGRAPH:2]The primary downside to this method of cultivation is that it requires a fair degree of technical know-how to install and maintain the complicated machines necessary to keep the "scum-ponds" healthy and productive. However, once education levels improved in rural populations across the world, this was no longer an impediment, and the practice has since spread rapidly, greatly increasing the world's food supply.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HYDROPONICS_HELP">
+			<Text>This tech allows you to build Hydroponics and Arcologies, buildings improving food output.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HYDROPONICS_QUOTE">
+			<Text>"All right. Maybe it DOES taste like wet cardboard - but it sure beats starving." [PARAGRAPH:1] - Dexter Ambrose, Agricultural Engineer </Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GENETICS_DESC">
+			<Text>[TAB]The field of genetics involves the manipulation of deoxyribonucleic acid (DNA). DNA contains the genetic "code" which determines the inherited traits of living organisms. Removing a section of an organism's DNA and replacing it with that of another organism can alter the characteristics of the organism. Since its inception, genetic engineering has produced a number of important benefits, such as isolating the gene for interferon, a rare substance that may be of great value in the treatment of viral diseases and cancer. Genetic manipulation may someday also provide a cure for birth defects and inherited diseases. Unfortunately, there are also potential dangers involved in this technology. Genetically engineered diseases, more communicable and virulent than any occurring in nature, could potentially be created in the laboratory by accident or maliciously. Such viruses could be used as a dreadful biological weapon. Domestic and international regulations regarding genetic experimentation exist to prevent such a situation from occurring.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GENETICS_HELP">
+			<Text>Genetics allows you to build the Genic Lab, a building improving food and science outputs and providing [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GENETICS_QUOTE">
+			<Text>"Soon it will be a sin for parents to have a child that carries the heavy burden of genetic disease." - Bob Edwards</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CLONING_DESC">
+			<Text>[TAB]While the first animals were successfully cloned in the late twentieth century, human cloning was not perfected until decades later. And then only if one uses the term "perfected" in the loosest sense. After much research it became possible to create a physical clone of a human being, identical to the original model down to the smallest detail; however, the clones remain frustratingly incapable of rational thought. All attempts to educate these creatures have failed miserably, and the "smartest" clone remains little more than a drooling moron whose needs must be constantly attended to. So while clones remain excellent organ and limb donors, up until recently little else could be done with them. [PARAGRAPH:2]Recent scientific advances have allowed clones to be equipped with sophisticated computer systems capable of controlling the clones' movement. While the computers are not yet sophisticated enough to allow for the creation of "clone warriors," the zombie-like beings are capable of performing simple, repetitive actions like building roads, tilling farmland, and so forth, doing so more efficiently than purely human workers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CLONING_HELP">
+			<Text>This tech allows you to build Cloning Factories and to train Clones, units working faster than workers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CLONING_QUOTE">
+			<Text>"All in all you're just another brick in the wall." - Pink Floyd, 'The Wall'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BIOLOGICAL_WARFARE_DESC">
+			<Text>[TAB]Humans have used biological warfare against each other for untold centuries. The earliest efforts were crude - throwing diseased corpses into cities under siege, giving the blankets of plague victims to unsuspecting natives, and so forth - but effective. Biological warfare was outlawed on Earth in the twentieth century, but that didn't stop a lot of countries and terrorist organizations from continuing to research and refine such weapons - "just in case." [PARAGRAPH:2]The biggest drawbacks to such weaponry remains the difficulty of delivering a large enough dose to be immediately effective, as well as figuring out a way to ensure that the disease doesn't turn around and wipe your side out as well as your enemy. While the first difficulty has been somewhat addressed with the creation of super viruses capable of surviving being dispersed from a missile warhead to cover a large area, the latter remains somewhat problematic: the new viruses are designed to be short-lived and to burn themselves out after a few days or weeks, but like all other viruses they are capable of mutation - perhaps into something far more persistent and easily spreadable - so the risks remain extremely high. Only the most foolish nation would use such a weapon except in the direst of needs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BIOLOGICAL_WARFARE_HELP">
+			<Text>This tech allows you to build Biological Warfare Labs and Biological Warfare Missiles which are less strong than Guided Missiles but really more efficient against cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BIOLOGICAL_WARFARE_QUOTE">
+			<Text>"Mark my words: once they start using this stuff we might as well just hand the world over to the cockroaches and be done with it."[PARAGRAPH:1] - Olaf Klum, 'Idiot World' </Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BIONICS_DESC">
+			<Text>[TAB]Bionics is the science of applying systems and methods found in nature to technology. This has been done throughout human history of course - basing the shape of an aircraft's wing on that of a bird's wing is one classic example. As the twenty-first century has progressed, great strides have been made in using the model of a living brain to create highly intelligent, adaptable super-computers. [PARAGRAPH:2]While the potential for such machines to aid human growth and development is virtually unlimited, most of the existing "organic computers" have been requisitioned by national militaries, where they are implanted in clones and spend their existence trying to blow each other up. The so-called "automaton" soldiers are less intelligent than their human counterparts - the human brain remains far more sophisticated than any man-made artifact of the same weight and size - but on the other hand the automatons are totally without fear and they follow orders without question. Most human generals think they're totally cool.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BIONICS_HELP">
+			<Text>This tech allows you to build Mind Control Centers and to train Automatons, which are basic infantry units with a very low production cost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BIONICS_QUOTE">
+			<Text>"We can rebuild him. We have the technology."[PARAGRAPH:1] - Oscar Goldman, 'The Six Million Dollar Man'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CYBERNETICS_DESC">
+			<Text>[TAB]Cybernetics is the study of communication and control in complex systems - Human, animal, insect, or machine. (The word "cybernetics" is taken from a Greek word that means "the art of steering.") The fields of study within this broad subject run from examinations of how social structures - beehives, cities - react to, store, and pass on information, to how Humans can best interface with the ever-more-important machines that increasingly affect our world. [PARAGRAPH:2]In the early twenty-first century, cybernetics became increasingly interested in Human prosthetics, creating ever-more functional and useful replacements for lost limbs and organs. The most exciting breakthrough came when a team in Switzerland successfully transplanted a Human brain into a fully-functional humanoid robot, creating the first true "cyborg" in history. And while the experiment was not a total success - the cyborg unfortunately went insane and killed the entire research team within moments after being awakened - the speed, skill and dexterity with which the cyborg dispatched the engineers were indeed quite impressive. Further experiments with cyborgs have since been limited to Human clones, which are far less prone to psychosis.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CYBERNETICS_HELP">
+			<Text>This tech allows you to train cyborgs, elite land units which are extremely polyvalent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CYBERNETICS_QUOTE">
+			<Text>"You will be assimilated. Resistance is futile."[PARAGRAPH:1] - The Borg, 'Star Trek'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COLD_FUSION_DESC">
+			<Text>[TAB]Cold fusion - a controllable fusion reaction occurring at or near room temperature - has long been the "holy grail" of modern physics. In 1989 two scientists claimed to have created a cold fusion reaction, but their claims were disputed by other scientist who could not duplicate their results. And even when the first verifiable cold fusion reaction was documented many decades later, the size of the reactor necessary and the small amount of power it generated made cold fusion totally inefficient for common use. It would be years before a practical cold fusion generator would be created. [PARAGRAPH:2]Once created, the cold fusion generator had the capacity to change human existence, creating cheap, near-pollution-free energy for all. Unfortunately, however, like so many other potentially beneficial technologies recently discovered, cold fusion technology has been appropriated and classified by the military, used almost exclusively to create power plants for ever larger and more destructive weapons platforms. In the meantime humanity has had to continue to survive on ever-dwindling and highly-polluting energy sources like coal, oil, and uranium. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COLD_FUSION_HELP">
+			<Text>This tech allows to build Cold Fusion Plants, which are kind of super Nuclear Plants, and Dreadnoughts, armored units with a huge production and resource cost but which are extremely fast and strong.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COLD_FUSION_QUOTE">
+			<Text>"A chicken-like yeast product in every microwave, an auto-gyro in every garage and a cold fusion generator in every basement!" - Mr Big, campaign slogan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SHIELDING_DESC">
+			<Text>[TAB]Providing shielding for the great domed city arcologies has proven quite challenging. Early attempts relied on thick walls of heavy material; however, bitter experience proved that this material was incapable of fully resisting modern missiles and other armaments - and when it failed, the falling shielding material was at least as dangerous as the missiles themselves to the people below.[PARAGRAPH:2]More recent attempts have relied on much thinner material whose molecular bonds are artificially strengthened by energy fields. The shield material and generators are expensive, but they have proven to provide some protection against nuclear and non-nuclear attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SHIELDING_HELP">
+			<Text>This tech allows you to build Arcology Shieldings and Assault Mechs, which are respectively upgrades of Arcologies and Giant Death Robots.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SHIELDING_QUOTE">
+			<Text>"We have traded the wind on our faces for a dubious security."[PARAGRAPH:1] - Kim Lau, Techno-Philosopher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ADVANCED_SHIELDING_DESC">
+			<Text>[TAB]In recent years great strides have been made in improving arcology shielding. The newer shields are far stronger than the originals; unfortunately they are also extremely expensive. They have a significant environmental impact, as well: the shields emit an extremely annoying high-pitched whining sound. Studies have shown that prolonged exposure to this sound causes heightened anxiety in humans, and, if continued indefinitely, leads to increased hostility, anger, and eventually to insanity.[PARAGRAPH:2]Significant efforts are being made to remove or at least reduce this sound. In the meantime, most cities leave these shields turned off until the city is under imminent threat; when the shields are turned on the cities attempt to mask the whining sound by playing loud, incessant "muzak" through huge speakers atop every building in the dome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ADVANCED_SHIELDING_HELP">
+			<Text>This tech allows to build Deflector Shieldings and Aegis Cruisers, which are the last naval units of the game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ADVANCED_SHIELDING_QUOTE">
+			<Text>"I very much dislike these new shields of yours - they block out the stars and give one a dangerous sense of invulnerability." - Kim Lau, Techno-Philosopher </Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CONSTITUTION_TEXT">
+			<Text>[TAB]A "constitution" is a system that establishes the fundamental rules by which a nation is governed. Generally, a constitution describes the relationship between the government and the people, and the relationships between the various parts (or branches) of the government. A constitution will lay down how the rulers of the country are chosen and describe the limits of their power. Many nations, such as the United States, have written, codified constitutions, while some, such as the United Kingdom, have unwritten constitutions. [PARAGRAPH:2]Aristotle invented the concept of constitutions in the 3rd Century BC. In 622 AD, the Prophet Muhammad created the first written constitution, the "Constitution of Medina." King Henry I of England proclaimed the "Charter of Liberties" in 1100 AD, and in 1215 the English nobility forced King John to sign the "Magna Carta." [PARAGRAPH:2]The most important part of the Magna Carta, Article 39, established the concept of "habeas corpus" (literally, "you should have the body") which constrained the king from exiling, imprisoning, or killing anyone without "due process" of law. The "due process" clause of the Fifth Amendment in the US Constitution is directly descended from Article 39.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CONSTITUTION_HELP">
+			<Text>This tech allows you to build the Jail and the Security Bureau, two buildings increasing your spies' efficiency.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CONSTITUTION_QUOTE">
+			<Text>"No freeman shall be taken, imprisoned, or in any way destroyed, except by the lawful judgment of his peers."[NEWLINE] - The Magna Carta</Text>
+		</Row>
+		<!-- Enlightenment Era -->
+		<!--===============================================================-->
+		<!--===== Technologies ============================================-->
+		<!--===============================================================-->
+		<!--Armour Plating-->
+		<Row Tag="TXT_KEY_TECH_EE_ARMOUR_PLATING">
+			<Text>Armour Plating</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_ARMOUR_PLATING_DESC">
+			<Text>The use of larger guns with more penetrating power and explosive shells made naval armour plating imperative. Among early experiments were floating armoured batteries built for the Crimean War. Heavy wrought-iron plates over a thick wooden backing gave these flat-bottomed vessels outstanding protection as they carried large-shell guns close inshore. Other developments followed swiftly. The British soon built the first iron-hulled floating batteries, and the French followed in 1860 with the first seagoing armoured warships protected throughout their entire length by a wrought-iron belt. Belt armor soon became standard fare for battleships, cruisers, and aircraft carriers. An air space between the armor belt and the hull would also add to the buoyancy of the warship, and this was often done to increase protection against either torpedoes or shells. In other designs, the spaces around the main belt were filled with storage tanks that could contain oil, seawater, or fresh water. There, the liquids in the tanks absorbed or scattered much of the explosive force of warheads.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_ARMOUR_PLATING_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Cruiser[ENDCOLOR], the primary ranged ship of the Industrial era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_ARMOUR_PLATING_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"You would make a ship sail against the winds and currents by lighting a bonfire under her deck? I have no time to listen to such nonsense."[NEWLINE][TAB][TAB] - Napoleon Bonaparte to Robert Fulton[NEWLINE][TAB]</Text>
+		</Row>
+		<!--Exploration-->
+		<Row Tag="TXT_KEY_TECH_EE_EXPLORATION">
+			<Text>Exploration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_EXPLORATION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time."[NEWLINE][TAB][TAB] - T. S. Eliot[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_EXPLORATION_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Galleon[ENDCOLOR], a strong late-Renaissance melee naval unit, and the [COLOR_POSITIVE_TEXT]Explorer[ENDCOLOR], a mid-game scouting unit.</Text>
+		</Row>
+		<!--Flintlock-->
+		<Row Tag="TXT_KEY_TECH_EE_FLINTLOCK">
+			<Text>Flintlock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_FLINTLOCK_DESC">
+			<Text>The flintlock can either describe a certain lock mechanism which employed a flint to ignite the gunpowder in a musket or rifle, or it can refer to the weapons of the 17th, 18th, and 19th centuries as a whole. These weapons, first developed in France, contained a piece of flint which, when struck with steel (called the 'frizzen') would create a spark, which would then fall into a pan containing gunpowder and ignite it, causing the weapon to fire.[NEWLINE][NEWLINE]Because of their improvement over the previous matchlock rifle, the flintlock quickly became popular, gaining prominence during the 1630s as the favoured arm of dragoons serving in the English Civil War, and then in the 1700s as the standard arm for most European footsoldiers. They retained this status up until the mid 19th century, when they were gradually phased out and replaced with the percussion lock and, later, the cartridge-based systems.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_FLINTLOCK_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Line Infantry[ENDCOLOR] and the [COLOR_POSITIVE_TEXT]Skirmisher[ENDCOLOR], the basic infantry and ranged units of the Enlightenment Era respectively.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_FLINTLOCK_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"To be prepared for war is one of the most effectual means of preserving peace."[NEWLINE][TAB][TAB] - George Washington[NEWLINE][TAB]</Text>
+		</Row>
+		<!--Fortification-->
+		<Row Tag="TXT_KEY_TECH_EE_FORTIFICATION">
+			<Text>Fortification</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_FORTIFICATION_DESC">
+			<Text>Fortifications are those structures built to withstand the conditions of warfare. In early history, walls and castles often served as checks against the imposing threat of invasion or conquest, whilst also signifying the residence or territory of a ruling monarch or noble. As the arrival of cannons in the 15th century began to render traditional forts obsolete, new designs which focused upon safeguarding walls behind ditches and ramparts were developed. Like castles before them, however, these structures quickly fell to the advances of military technology, and today, most large-scale fortifications have been made obsolete.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_FORTIFICATION_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Field Gun[ENDCOLOR], a strong and effective siege unit. Also allows you to build the [COLOR_POSITIVE_TEXT]Bastion[ENDCOLOR] to further improve the [ICON_STRENGTH] Defense of your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_FORTIFICATION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Greatness is nothing unless it be lasting."[NEWLINE][TAB][TAB] - Napoleon Bonaparte[NEWLINE][TAB]</Text>
+		</Row>
+		<!--Humanism-->
+		<Row Tag="TXT_KEY_TECH_EE_HUMANISM">
+			<Text>Humanism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_HUMANISM_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"What is a man? A miserable little pile of secrets."[NEWLINE][TAB][TAB] - Count Dracula [NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_HUMANISM_HELP">
+			<Text>Allows you to build both the [COLOR_POSITIVE_TEXT]Academy[ENDCOLOR] and the [COLOR_POSITIVE_TEXT]Salon[ENDCOLOR], two mutually-exclusive buildings which boost either the science or culture output of your cities respectively.</Text>
+		</Row>
+		<!--Imperialism-->
+		<Row Tag="TXT_KEY_TECH_EE_IMPERIALISM">
+			<Text>Imperialism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_IMPERIALISM_DESC">
+			<Text>In its most basic form, Imperialism describes an unequal relationship between one nation and another, where the former has some amount of control over the latter country - usually in the form of some kind of empire.  Imperialistic dynasties can be found in all the histories of the world, from China to Rome to Britain, and imperialism as a concept has existed for thousands of years, just about as long as governments in general.  The term "imperialism", however, wasn't coined until the 16th century, where it was used to describe the foreign policies and proceedings of nations like Spain, Britain, Belgium, and the Netherlands, as they swiftly built up imperial ties with the Americas.[NEWLINE][NEWLINE]While Imperialism is traditionally connected with the large, iconic, militaristic empire, it can be exhibited in a much more subtle manner.  Formal control of the weaker state's government isn't always necessary, and a stronger civilization will sometimes control a weaker one purely through indirect economic, political or religious means.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_IMPERIALISM_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Cuirassier[ENDCOLOR], the primary mounted unit of the Enlightenment era. Also provides benefits for ocean-based expansion and trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_IMPERIALISM_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Fate has written our policy for us; the trade of the world must and shall be ours."[NEWLINE][TAB][TAB] - Albert Beveridge[NEWLINE][TAB]</Text>
+		</Row>
+		<!--Manufacturing-->
+		<Row Tag="TXT_KEY_TECH_EE_MANUFACTURING">
+			<Text>Manufacturing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_MANUFACTURING_DESC">
+			<Text>Manufacturing is the process of producing goods that can then be sold or used, most often by turning raw materials into merchandise. In pre-industrial societies, the production of such merchandise was often carried out by artisans, overseen by collective guilds which ensured the protection and enterprise of their craft. Alongside the development of factories, and, particularly, with the advent of the Assembly Line in the 1910s, manufacturing became an industrial process, often concerned with the mass production of goods for profit. Manufactories - complexes of factories, assembly plants, foundries, etc. - thus became highly mechanized, and the need for such skilled artisans in the manufacturing process became obsolete.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_MANUFACTURING_HELP">
+			<Text>Reveals [ICON_RES_COAL] [COLOR_POSITIVE_TEXT]Coal[ENDCOLOR] and allows you to build the [COLOR_POSITIVE_TEXT]Cloth Mill[ENDCOLOR], which increases production in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_MANUFACTURING_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Let us rather run the risk of wearing out than rusting out."[NEWLINE][TAB][TAB] - Theodore Roosevelt[NEWLINE][TAB]</Text>
+		</Row>
+		<!--Natural History-->
+		<Row Tag="TXT_KEY_TECH_EE_NATURAL_HISTORY">
+			<Text>Natural History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_NATURAL_HISTORY_DESC">
+			<Text>Natural history is the study of animals, plants, and other organisms as they exist in nature. Naturalists - those who study natural history - often observe, rather than experiment with, their natural surroundings, and have played a pivotal role in the discovery and collection of new and exotic life forms.[NEWLINE][NEWLINE]Aristotle is, arguably, the forefather of natural historians, who first analyzed the natural world. In medieval Europe, his works were adapted into contemporary theology, which would expand upon the field as it related to the existence of God. A secular application of this knowledge would then come during the Renaissance, as disciplines such as botany, zoology, and geology began to emerge. By the Victorian Era, spurred on by the age of empires, naturalists began to amass private collections of sometimes thousands of animals and plants. These collections would go on to form the basis of natural history museums and zoos which, today, are commonplace.[NEWLINE][NEWLINE]One of the greatest naturalists of perhaps the discipline’s history is Charles Darwin. Darwin, who travelled years at a time across the globe, and who collected many new specimens, conceived of his theory of evolution by observing the natural history of the Galapagos islands. In doing so, he, among others, would pave the way for natural history to becoming a theory-based, rather than a strictly descriptive, science, confirming its place among the natural sciences today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_NATURAL_HISTORY_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Museum[ENDCOLOR] which improves the Great Work capacity of the city and its [ICON_CULTURE] Cultural output.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_NATURAL_HISTORY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"From so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved."[NEWLINE][TAB][TAB] - Charles Darwin[NEWLINE][TAB]</Text>
+		</Row>
+		<!--Romanticism-->
+		<Row Tag="TXT_KEY_TECH_EE_ROMANTICISM">
+			<Text>Romanticism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_ROMANTICISM_DESC">
+			<Text>The Romantic era was an age of literary and artistic expression which grew out of opposition to the scientific Enlightenment. It was characterised by ideals of freedom and idealism versus ideals of rationalism and realism. Many romantic thinkers were great artists, musicians, and writers, who sought to elicit intense emotion as a means to see the world around them. These thinkers would come to shape the political ideas of liberalism and radicalism which contrast so deeply with the pessimistic and cynical ideas of conservatism and realism of the modern age.[NEWLINE][NEWLINE]Romanticism reached its peak during the 19th Century, at the height of the Industrial Revolution. Artists and writers from England to Russia all celebrated in an idealistic view of humankind. Its emphasis on imagination and individual heroism was a popular distraction from the rapid changes heralded by an age dominated by global and urban empires seeking wealth and gain. It criticised authority and intellectual objectivity, and gave society a sense of quality and unity which would come to inspire ideals of the nationalism and fraternity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_ROMANTICISM_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Menagerie[ENDCOLOR], which increases [ICON_HAPPINESS_1] Happiness in the empire and makes [ICON_GOLDEN_AGE] Golden Ages more likely.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_ROMANTICISM_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"The greatest happiness for the thinking man is to have fathomed the fathomable, and to quietly revere the unfathomable."[NEWLINE][TAB][TAB] - Johann Wolfgang Goethe[NEWLINE][TAB]</Text>
+		</Row>
+		<!--Sovereignty-->
+		<Row Tag="TXT_KEY_TECH_EE_SOVEREIGNTY">
+			<Text>Sovereignty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_SOVEREIGNTY_DESC">
+			<Text>Sovereignty is the political concept of supreme authority. Although in the modern sense sovereignty is usually associated with the highest authority of or within a state, it can also refer to the highest means of any individual to take independent action. This was the traditional sense of the word during the Middle Ages, when sovereignty was merely translated as being the legal or assertive capability of any individual to act independent of others. It was not until the Age of Enlightenment and the Peace of Westphalia that sovereignty became regarded legally as being the power of states to act autonomously of one another.[NEWLINE][NEWLINE]Sovereignty first became popularised by the idea of the “Social Contract,” which was first conceived by the political philosopher Thomas Hobbes as a means to explain the inception of society. Hobbes stipulated that, in order to avoid a state of perpetual conflict between mankind, or a state of “war of all against all,” individuals consent to giving up certain freedoms and benefits to an absolute and indivisible authority that can compel mankind to act in the common interest.[NEWLINE][NEWLINE]On this basis was created the ideal of Absolute Monarchy, which would be practiced in states such as Sweden and Prussia during the 17th and 18th centuries. The French philosopher Jean-Jacques Rousseau, however, would conceive of the notion of popular sovereignty, which instead considers supreme authority as being legitimately held by the people, and merely entrusted into a government to be exercised. It was on the basis of this popular sovereignty that nations such as the United States of America and the French Republic were conceived.[NEWLINE][NEWLINE]Today, most legitimate forms of sovereignty are either popular (as in a Presidential Republic, or as in the Kingdoms of Belgium and Sweden, and the State of Japan) or Parliamentary (as in a Constitutional Monarchy or Parliamentary Republic). In the case of the latter, sovereignty is retained by a supreme authority (the people or the monarch), but exercised on that authority’s behalf by a Parliament, which is usually democratically elected. In this way, most forms of sovereignty are, at least hypothetically, de facto exercised by popular consent, differing greatly from the indivisible form of which Hobbes first conceived.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_SOVEREIGNTY_HELP">
+			<Text>Allows you to build a range of buildings and wonders focused on great person generation. Also unlocks the ability to found the World Congress.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_SOVEREIGNTY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"A State is but an Artificial Man in which the Sovereignty is an Artificial Soul, as giving life and motion to the whole body."[NEWLINE][TAB][TAB] - Thomas Hobbes[NEWLINE][TAB]</Text>
+		</Row>
+		<!--Warships-->
+		<Row Tag="TXT_KEY_TECH_EE_WARSHIPS">
+			<Text>Warships</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_WARSHIPS_DESC">
+			<Text>While many ships are engineered to cross oceans quickly or take the greatest amount of cargo in the smallest possible space, warships were designed for one purpose alone - destroying other ships.  Besides obviously being armed with some form of weapon (traditionally things like cannon or rams), warships can also withstand more damage and are much more maneuverable than something like a merchant or passenger vessel.[NEWLINE][NEWLINE]As naval technologies have advanced, so has the warship.  Galleys and triremes were early forms of warships capable of ramming enemy vessels, but usually combat was performed by the army onboard.  However, once cannon became capable of quick reloads, large sail-driven ships were employed which held rows of cannon along each side of the craft. Eventually these wooden ships were given up for ones made of iron and steel, and sails were abandoned for steam and nuclear power. While modern warships bear little resemblance to the earliest galleys, they still keep to the same basic design principles - be capable of destroying the other guy first, before he can take out you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_WARSHIPS_HELP">
+			<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Frigate[ENDCOLOR], an integral ranged unit in Enlightenment era navies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_WARSHIPS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Damn the torpedoes, Full speed ahead!"[NEWLINE][TAB][TAB] - Admiral David Glasgow Farragut[NEWLINE][TAB]</Text>
+		</Row>
+		<!-- Tech Names -->
+		<Row Tag="TXT_KEY_TECH_CONSTITUTION">
+			<Text>Constitution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RADIO_STEAMPUNK">
+			<Text>Impulses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ROBOTICS_STEAMPUNK">
+			<Text>Pistonning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_NATURAL_PHILOSOPHY">
+			<Text>Natural Philosophy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MAGNETIC_RESONANCE">
+			<Text>Magnetic Resonance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ADVANCED_MACHINERY">
+			<Text>Advanced Machinery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_DARWINISM">
+			<Text>Darwinism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_METAL_FLESH">
+			<Text>Metal Flesh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CLANKERISM">
+			<Text>Clankerism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GENETICS">
+			<Text>Genetics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_AQUACULTURE">
+			<Text>Aquaculture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HYDROPONICS">
+			<Text>Hydroponics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BIOLOGICAL_WARFARE">
+			<Text>Biological Warfare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CLONING">
+			<Text>Cloning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SHIELDING">
+			<Text>Shielding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BIONICS">
+			<Text>Bionics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ADVANCED_SHIELDING">
+			<Text>Advanced Shielding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COLD_FUSION">
+			<Text>Cold Fusion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CYBERNETICS">
+			<Text>Cybernetics</Text>
+		</Row>
+	</Language_en_US>
+
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_TECH_DARWINISM_HELP">
+			<Text>Le Darwinisme permet la construction du Béhémoth, du Lance-kappas et du Léviathan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_DARWINISM_QUOTE">
+			<Text>"Ce n'est pas l'espèce la plus puissante qui survit mais celle qui s'adapte le mieux." - Charles Darwin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MAGNETIC_RESONANCE_HELP">
+			<Text>La Résonance magnétique permet la construction du Vaisseau de Bombardement, du rayonneur magnétique et de la machine à IRM.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MAGNETIC_RESONANCE_QUOTE">
+			<Text>"Il faut s'exercer, dans le domaine des maladies, à deux choses : être utile, sinon ne pas nuire." - Hippocrate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CLANKERISM_HELP">
+			<Text>Le Clankerisme permet la construction du Canon Tesla, du Goliath et du Mécanopode de reconnaissance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CLANKERISM_QUOTE">
+			<Text>"Voici le pouvoir du Goliath, auquel personne sur Terre, Clanker ou Darwiniste, ne peut échapper. Alors nous devons tous apprendre à partager le globe, ou tous mourir ensemble." - Nikola Tesla (Leviathan Series, Goliath, Scott Westerfeld)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_NATURAL_PHILOSOPHY_HELP">
+			<Text>La philosophie naturelle permet la construction de la Manufacture génique, du Kraken et de l'Huxley.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_NATURAL_PHILOSOPHY_QUOTE">
+			<Text>"À ceux qui descendent dans les mêmes fleuves surviennent toujours d’autres et d’autres eaux." - Arius Didyme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ADVANCED_MACHINERY_HELP">
+			<Text>La Machinerie avancée permet la construction du Mécanopode, du Dreadnought et de la Frégate terrestre.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ADVANCED_MACHINERY_QUOTE">
+			<Text>"La machine a enfanté un dieu." - Menander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_METAL_FLESH_HELP">
+			<Text>La Chair de métal permet la construction de la Raie volante et du Wasser-wanderer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_METAL_FLESH_QUOTE">
+			<Text>"Je me suis libéré des emprises de la Terre. J'ai tendu la main et j'ai caressé le visage de Dieu." - John Gillepsie Magee, Junior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_AQUACULTURE_DESC">
+			<Text>[TAB]L'aquaculture est le terme générique qui sert à désigner toutes les activités de production animales ou végétales en milieu aquatique. Tout au long de leur histoire, les humains ont exploité les richesses de la mer. Mais avec la croissance exponentielle de la population humaine, la fin du vingtième siècle a vu apparaître les besoins d'une aquaculture viable. Ainsi, le Traité d'Islande, ratifié en 2033, stipulait : "Aucun poisson ou mammifère ne peut être extrait des mers ou des océans, à moins qu'une quantité équivalente de la même espèce ne soit rendue à la vie sauvage dans le même temps." Malheureusement, depuis la chute du Gouvernement Mondial, le traité est tombé en désuétude et la faune marine est à nouveau menacée d'extinction.[NEWLINE][NEWLINE]Pour faire face à la pénurie de protéines animales, l'aquaculture s'est concentrée sur l'exploitation de cultures végétales océaniques comme le varech et les algues. Bien que très abondante, cette nourriture rencontre un succès mitigé : certaines populations côtières se réjouissent de cette révolution alimentaire mais le reste de l'humanité semble s'accorder à penser que "ça a un goût de caoutchouc salé, en moins bon".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_AQUACULTURE_HELP">
+			<Text>L'aquaculture permet la construction de l'Hydrolienne, un bâtiment augmentant la [ICON_PRODUCTION] Production et la [ICON_FOOD] Nourriture des cases côtières.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_AQUACULTURE_QUOTE">
+			<Text>"Le Varech, le meilleur des petits déjeuners !" - Publicité pour une marque de céréales au varech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HYDROPONICS_DESC">
+			<Text>[TAB]Les cultures hydroponiques consistent à faire pousser des légumes dans des solutions nutritives plutôt qu'en les plantant dans le sol. Les premières expériences menées dans ce sens datent du dix-septième siècle et les progrès dans ce domaine n'ont jamais ralenti depuis lors. La première application pratique des cultures hydroponiques a été introduite au début du vingtième siècle, mais leur développement à l'échelle industrielle ne fut véritablement au point qu'au milieu du vingt-et-unième siècle. Il y a deux avantages majeurs à faire pousser des plantes dans des solutions nutritives plutôt que dans la terre : la solution peut être stérilisée (contrairement à la terre), ce qui réduit considérablement les risques de maladies ainsi que l'usage des pesticides ; et la quantité de plantes produites est nettement plus importante pour une même surface.[NEWLINE][NEWLINE]Le principal inconvénient de cette méthode est le fait qu'elle requiert un certain savoir-faire technologique pour être mise en place et qu'elle nécessite une machinerie très complexe afin de maintenir un bon niveau de productivité. Cependant, le niveau d'éducation s'est nettement amélioré dans les milieux ruraux et la pratique des cultures hydroponiques s'est très largement répandue, augmentant considérablement la production mondiale de nourriture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HYDROPONICS_HELP">
+			<Text>Les cultures hydroponiques permettent la construction de l'Arcologie et des Cultures Hydroponiques, deux bâtiments augmentant la Nourriture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HYDROPONICS_QUOTE">
+			<Text>"D'accord, ça a un goût de carton, mais c'est toujours mieux que mourir de faim." - Dexter Ambrose, Ingénieur agricole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GENETICS_DESC">
+			<Text>[TAB]La biologie est l'étude des organismes vivants. L'homme la pratique depuis qu'il a commencé à penser. La biologie, en tant que science, fait référence à l'étude des bactéries, virus et cellules, devenue possible avec l'apparition des premiers microscopes puissants.[NEWLINE][NEWLINE]Les bénéfices de ces recherches pour l'humanité sont incalculables. La connaissance élémentaire du processus de dissémination des germes et de l'importance de l'hygiène a permis, à elle seule, de sauver des millions de vies. Les antibiotiques, comme la pénicilline, ou encore la vaccination, en ont sauvé encore davantage. La biologie a aussi permis d'accroître la production de nourriture, en créant des plantes et des races de bétail plus résistantes.[NEWLINE][NEWLINE]La biologie continue de faire de grandes avancées. L'étude de la génétique, par exemple, peut apporter énormément à l'humanité... ou la détruire, si les nouvelles technologies ne sont pas exploitées avec le respect et la prudence qui s'imposent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GENETICS_HELP">
+			<Text>La génétique permet la construction du laboratoire génique, un bâtiment polyvalent améliorant la science, le bonheur et la croissance de la ville.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GENETICS_QUOTE">
+			<Text>"Bientôt, ce sera un péché pour des parents d'avoir un enfant souffrant d'une maladie génétique." - Bob Edwards</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CLONING_DESC">
+			<Text>[TAB]Les premiers clonages d'animaux datent de la fin du vingtième siècle, mais le clonage humain ne fut mis au point que plusieurs dizaines d'années plus tard. Et même alors, tout n'était pas encore parfait. Après des longues recherches, il fut enfin possible de créer le clone physique d'un être humain, identique en tous points à son modèle. Cependant, ces clones étaient dénués de toute forme d'intelligence. Toutes les tentatives pour éduquer ces créatures échouèrent lamentablement et même les clones les plus évolués s'avérèrent incapables de survivre de manière autonome. Ils furent donc exclusivement utilisés comme donneurs d'organes.[NEWLINE][NEWLINE]Des progrès récents ont permis d'équiper les clones de programmes informatiques très complexes, capables d'en contrôler les mouvements. Si cette technologie ne permet pas à l'heure actuelle la création de "guerriers clones", elle permet de les transformer en automates et de leur assigner des tâches simples et répétitives, comme la construction des routes ou le labourage des terres. Force est de constater que leur efficacité dans ces domaines est nettement supérieure à celle des humains.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CLONING_HELP">
+			<Text>Le clonage permet la construction de l'usine de clonage et du clone, une nouvelle unité qui remplace l'ouvrier.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CLONING_QUOTE">
+			<Text>"All in all you're just another brick in the wall." ("Et en fin de compte, tu n'es qu'une brique de plus dans le mur.") - Pink Floyd, "The Wall"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BIOLOGICAL_WARFARE_DESC">
+			<Text>[TAB]Les humains utilisent des armes biologiques depuis des siècles. Les premiers cas remontent au Moyen Age, lorsque les assaillants jetaient des cadavres en décomposition dans les villes assiégées pour y répandre des épidémies. La guerre biologique fut interdite sur Terre au vingtième siècle, mais cela n'empêcha pas un grand nombre de pays ou d'organisations terroristes de continuer à développer des armes biologiques "au cas où".[NEWLINE][NEWLINE]Les deux plus grands inconvénients d'un tel arsenal sont, d'une part, la difficulté de répandre une dose assez importante pour être efficace et, d'autre part, le risque d'en subir soi-même les effets. Le premier problème a pu être contourné par la création de super virus embarqués à bord de missiles et dispersés au-dessus de larges territoires, mais le second reste insoluble. En effet, les nouveaux virus sont connus pour ne vivre que quelques jours ou quelques semaines mais ils sont, comme tous les virus, sujets à des mutations qui peuvent les rendre plus résistants ou plus contagieux. Toute nation qui entreprendrait d'utiliser une telle arme prendrait le risque de provoquer la fin de l'humanité.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BIOLOGICAL_WARFARE_HELP">
+			<Text>La guerre biologique permet la construction du laboratoire de guerre biologique et du missile de guerre biologique, une unité aérienne... intéressante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BIOLOGICAL_WARFARE_QUOTE">
+			<Text>"Que ce soit bien clair : dès qu'ils commenceront à utiliser ces trucs, nous serons une espèce en voie de disparition." - Olaf Klum, "Monde idiot"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BIONICS_DESC">
+			<Text>[TAB]La bionique est une science qui étudie les phénomènes naturels susceptibles d'avoir des applications technologiques. Il s'agit d'une science aussi vieille que l'homme. Les ailes des avions, reprenant l'exemple des oiseaux, en sont un exemple classique. Ainsi, dès le vingt-et-unième siècle, l'observation du cerveau humain a permis la mise au point d'ordinateurs organiques très intelligents.[NEWLINE][NEWLINE]Le potentiel de ces machines est quasiment illimité lorsqu'il s'agit d'aider à la croissance et au développement des activités humaines, cependant, la plupart des ordinateurs organiques existants ont été réquisitionnés par les armées, qui les ont greffés sur des clones programmés pour se battre. Ces soldats "automates" sont moins intelligents que les humains (le cerveau humain reste bien plus complexe que les cerveaux artificiels les plus sophistiqués) mais ils ignorent la peur et obéissent aveuglément aux ordres. La plupart des généraux humains applaudissent cette révolution des deux mains.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BIONICS_HELP">
+			<Text>La bionique permet la construction du centre de contrôle mental et de l'automate, une unité d'infanterie extrêmement légère mais très rapide à produire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BIONICS_QUOTE">
+			<Text>"On peut le reconstruire. On a les moyens techniques de le faire." - Oscar Goldman, "L'homme qui valait trois milliards"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CYBERNETICS_DESC">
+			<Text>[TAB]La cybernétique est l'étude des échanges d'information et des moyens de les contrôler plus efficacement, que ce soit au niveau de l'Homme, de l'animal ou de la machine. (Le mot "cybernétique" a pour sens étymologique "gouvernail".) Les champs d'étude de cette science vont de l'analyse de la gestion des informations par les structures sociales (ruches, villes, etc.) à celle de l'interaction entre les humains et les machines, qui prennent une place de plus en plus importante dans notre monde.[NEWLINE][NEWLINE]Au début du vingt-et-unième siècle, la cybernétique commença à s'intéresser à la science des prothèses, pour permettre de remplacer efficacement les membres ou les organes endommagés. Cette technologie prit une nouvelle dimension lorsqu'une équipe suisse parvint à transplanter un cerveau humain sur un robot humanoïde, créant ainsi le premier cyborg de l'histoire. Cette expérience ne fut pas un succès complet (le cyborg devint incontrôlable et tua tous les membres de l'équipe de recherche peu de temps après avoir été animé) mais la rapidité, l'adresse et la dextérité dont fit preuve le cyborg pour massacrer les ingénieurs laissait entrevoir tout son potentiel. D'autres expériences ont depuis été menées sur des clones humains, bien moins susceptibles de céder à la psychose.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CYBERNETICS_HELP">
+			<Text>La cybernétique permet l'entraînement des cyborgs, redoutables unités militaires terrestres d'élite et inatteignables dans leur domaine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CYBERNETICS_QUOTE">
+			<Text>"Vous allez être assimilés. Toute résistance est inutile."[NEWLINE] - Les Borgs, "Star Trek"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COLD_FUSION_DESC">
+			<Text>[TAB]La fusion froide est une réaction de fusion nucléaire réalisée dans des conditions de température et de pression ambiantes. Ce procédé fut longtemps le Saint Graal de la physique moderne. En 1989, deux scientifiques affirmèrent avoir créé une réaction de fusion froide, mais la commission chargée de valider leur découverte ne parvint pas à reproduire l'expérience. Lors de la première expérience attestée de fusion froide, quelques dizaines d'années plus tard, la taille du réacteur nécessaire pour produire une toute petite quantité d'énergie ne pouvait permettre d'en répandre l'usage. Ce n'est que bien des années plus tard que le générateur de fusion froide que nous connaissons aujourd'hui fut mis au point.[NEWLINE][NEWLINE]Le générateur de fusion froide pouvait véritablement révolutionner le quotidien des populations. Grâce à lui, chacun pouvait bénéficier d'une source d'énergie bon marché et non polluante. Malheureusement, cette technologie fut, comme beaucoup d'autres, trustée par les militaires qui l'utilisèrent pour alimenter les chaînes de production d'armes extrêmement destructrices. Et pendant ce temps, l'humanité dut se contenter de survivre en utilisant des ressources de plus en rares et polluantes telles que le charbon, le pétrole et l'uranium.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COLD_FUSION_HELP">
+			<Text>La fusion froide permet la construction des centrales à fusion froide et des dreadnoughts, unité très chère mais qui sait se valoir sur le terrain, en rivalisation avec son homologue dépassé le blindé moderne.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COLD_FUSION_QUOTE">
+			<Text>"Un poulet artificiel dans chaque four à micro-ondes, une gyromatique dans chaque garage et un générateur de fusion froide dans chaque cave !" - slogan de campagne de M. Big</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SHIELDING_DESC">
+			<Text>[TAB]Équiper les grandes arcologies pourvues de dômes avec des boucliers n'a pas été une mince affaire. Les premières tentatives ont abouti sur la construction de murs épais construits dans des matériaux lourds et solides. Malheureusement, l'expérience a montré que ces murs n'étaient pas capables de résister aux missiles modernes et qu'ils constituaient, en cas d'attaque, un danger supplémentaire pour les populations situées en dessous.[NEWLINE][NEWLINE]Des essais plus récents ont reposé sur l'utilisation de matériaux plus fins et plus légers, dont la composition moléculaire était renforcée artificiellement par des champs de force. Ces matériaux et les générateurs qu'ils nécessitent sont très coûteux, mais ils sont efficaces contre les missiles, même nucléaires.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SHIELDING_HELP">
+			<Text>Les boucliers permettent la construction du bouclier d'arcologie et du robot de combat, successeur du mécacolosse de la mort.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SHIELDING_QUOTE">
+			<Text>"Nous avons troqué le vent sur nos visages contre une sécurité toute relative."[NEWLINE] - Kim Lau, Techno-philosophe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ADVANCED_SHIELDING_DESC">
+			<Text>[TAB]Au cours des dernières années, les boucliers d'arcologie ont été très nettement améliorés. Ces nouveaux boucliers sont plus résistants, mais aussi beaucoup plus chers. Autre inconvénient : leur impact sur l'environnement. Les boucliers émettent en permanence des sifflements stridents. Des études ont démontré qu'une exposition prolongée à ces sifflements accroît le stress et peut conduire à un sentiment de colère, d'agressivité, pouvant mener à la folie.[NEWLINE][NEWLINE]Des efforts ont été faits pour supprimer, ou du moins réduire, ces sifflements. Toutefois, la plupart des villes ont opté pour une solution plus radicale : les boucliers sont désactivés tant qu'aucune menace n'est détectée et lorsqu'ils sont remis en service, les villes tentent de masquer les sifflements en diffusant une musique de fond dans les haut-parleurs des dômes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ADVANCED_SHIELDING_HELP">
+			<Text>Les boucliers de pointe permettent la construction du dernier stade de l'arcologie, le bouclier de pointe, et du croiseur Aegis, dernière unité navale du jeu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ADVANCED_SHIELDING_QUOTE">
+			<Text>"Je n'aime vraiment pas ces nouveaux boucliers : ils cachent les étoiles et donnent une dangereuse impression d'invulnérabilité."[NEWLINE] - Kim Lau, Techno-philosophe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CONSTITUTION_TEXT">
+			<Text>[TAB]Une "constitution" est le recueil des lois fondamentales qui régissent une nation. De manière générale, les constitutions décrivent les relations entre l'État et le peuple, et entre les différentes parties (ou branches) de l'État. Une constitution définit le mode de désignation du chef de l'Etat et décrit les limites de son pouvoir. De nombreuses nations, comme la France, possèdent une constitution écrite. D'autres, comme l'Angleterre, ont une constitution coutumière. [PARAGRAPH:2]C'est Aristote qui a inventé, au IIIe siècle av. J.-C., le concept de constitution. En 622 ap. J.-C., le prophète Mahomet a créé la première constitution écrite, la "Constitution de Médine". Le roi Henry Ier d'Angleterre a proclamé, en 1 100, la "Charte des Libertés", et en 1215, la noblesse anglaise a forcé le roi Jean à signer la "Magna Carta".[PARAGRAPH:2]L'article 39, le plus important de la Magna Carta, établit le concept de "habeas corpus" (littéralement, "que tu aies le corps") qui interdit au roi d'exiler, d'emprisonner ou de tuer qui que ce soit sans un jugement légal. La clause du "due process" (procédure prévue) du Ve amendement de la Constitution américaine descend directement de l'article 39 de la Magna Carta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CONSTITUTION_HELP">
+			<Text>La Constitution permet la construction de la Prison et de l'Agence de Sécurité, deux bâtiments améliorant votre efficacité contre les espions ennemis et votre propre efficacité quant aux travaux d'espionnage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CONSTITUTION_QUOTE">
+			<Text>"Aucun homme libre ne sera saisi, emprisonné ou exécuté, de quelque manière que ce soit, sans un jugement légal de ses pairs."[NEWLINE] - La Magna Carta</Text>
+		</Row>
+		<!-- Enlightenment Era -->
+		<!--Armour Plating-->
+		<Row Tag="TXT_KEY_TECH_EE_ARMOUR_PLATING">
+			<Text>Placage d'armures</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_ARMOUR_PLATING_HELP">
+			<Text>Permet la construction du [COLOR_POSITIVE_TEXT]Croiseur[ENDCOLOR], l'unité navale à distance primaire de l'Ere Industrielle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_ARMOUR_PLATING_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Vous feriez avancer un navire contre vents et courants en allumant un brasier sous le pont ? Je n'ai pas de temps à perdre avec de telles inepties."[NEWLINE][TAB][TAB] - Napoléon Bonaparte à Robert Fulton[NEWLINE][TAB]</Text>
+		</Row>
+		<!--Exploration-->
+		<Row Tag="TXT_KEY_TECH_EE_EXPLORATION">
+			<Text>Exploration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_EXPLORATION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Nous ne cesserons pas d'explorer, et la fin de toute notre exploration sera d'arriver de là où nous sommes partis et de découvrir le lieu pour la première fois."[NEWLINE][TAB][TAB] - T. S. Eliot[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_EXPLORATION_HELP">
+			<Text>Permet la construction du [COLOR_POSITIVE_TEXT]Galion[ENDCOLOR], une puissante unité navale de la fin de la Renaissance, et d'entraîner l'[COLOR_POSITIVE_TEXT]Explorateur[ENDCOLOR], une unité de reconnaissance de milieu de partie.</Text>
+		</Row>
+		<!--Flintlock-->
+		<Row Tag="TXT_KEY_TECH_EE_FLINTLOCK">
+			<Text>Silex</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_FLINTLOCK_HELP">
+			<Text>Permet l'entraînement de l'[COLOR_POSITIVE_TEXT]Infanterie de Ligne[ENDCOLOR] et du [COLOR_POSITIVE_TEXT]Tirailleur[ENDCOLOR], respectivement les unités de combat rapproché et à distance intermédiaires de la Renaissance et de l'Ere Industrielle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_FLINTLOCK_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Être préparés à la guerre et l'une des notions les plus importantes pour conserver la paix."[NEWLINE][TAB][TAB] - George Washington[NEWLINE][TAB]</Text>
+		</Row>
+		<!--Fortification-->
+		<Row Tag="TXT_KEY_TECH_EE_FORTIFICATION">
+			<Text>Fortification</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_FORTIFICATION_HELP">
+			<Text>Permet la construction de l'[COLOR_POSITIVE_TEXT]Artillerie de Campagne[ENDCOLOR], une unité de siège puissante et efficace. Vous permet également de construire le [COLOR_POSITIVE_TEXT]Bastion[ENDCOLOR] pour augmenter grandement la [ICON_STRENGTH] Puissance de vos villes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_FORTIFICATION_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"La grandeur n'est quelque chose que si elle perdure."[NEWLINE][TAB][TAB] - Napoléon Bonaparte[NEWLINE][TAB]</Text>
+		</Row>
+		<!--Humanism-->
+		<Row Tag="TXT_KEY_TECH_EE_HUMANISM">
+			<Text>Humanisme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_HUMANISM_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"C'est quoi un homme ? Une misérable petite pile de secrets."[NEWLINE][TAB][TAB] - Compte Dracula [NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_HUMANISM_HELP">
+			<Text>Permet la construction de l'[COLOR_POSITIVE_TEXT]Académie[ENDCOLOR] et du [COLOR_POSITIVE_TEXT]Salon[ENDCOLOR], deux bâtiments améliorant respectivement la [ICON_SCIENCE] Science et la [ICON_CULTURE] Culture de vos villes.</Text>
+		</Row>
+		<!--Imperialism-->
+		<Row Tag="TXT_KEY_TECH_EE_IMPERIALISM">
+			<Text>Impérialisme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_IMPERIALISM_HELP">
+			<Text>Permet l'entraînement du [COLOR_POSITIVE_TEXT]Cuirassier[ENDCOLOR], l'unité montée primaire intermédiaires de la Renaissance et de l'Ere Industrielle. Apporte également des bénéfices quant à l'expansion et au commerce maritime.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_IMPERIALISM_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Le destin nous a dicté sa politique; l'échange du monde devrait être notre."[NEWLINE][TAB][TAB] - Albert Beveridge[NEWLINE][TAB]</Text>
+		</Row>
+		<!--Manufacturing-->
+		<Row Tag="TXT_KEY_TECH_EE_MANUFACTURING">
+			<Text>Fabrication</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_MANUFACTURING_HELP">
+			<Text>Révèle le [ICON_RES_COAL] [COLOR_POSITIVE_TEXT]Charbon[ENDCOLOR] et permet la construction de la [COLOR_POSITIVE_TEXT]Fabrique de textiles[ENDCOLOR], qui augmente la Production de vos villes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_MANUFACTURING_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Laissez-nous prendre le risque de nous épuiser plutôt que de rouiller."[NEWLINE][TAB][TAB] - Theodore Roosevelt[NEWLINE][TAB]</Text>
+		</Row>
+		<!--Natural History-->
+		<Row Tag="TXT_KEY_TECH_EE_NATURAL_HISTORY">
+			<Text>Histoire naturelle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_NATURAL_HISTORY_HELP">
+			<Text>Permet la construction du [COLOR_POSITIVE_TEXT]Musée[ENDCOLOR] qui augmente la capacité de la ville à accueillir des ouvrages d'Art et sa production de [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_NATURAL_HISTORY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"From so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved."[NEWLINE][TAB][TAB] - Charles Darwin[NEWLINE][TAB]</Text>
+		</Row>
+		<!--Romanticism-->
+		<Row Tag="TXT_KEY_TECH_EE_ROMANTICISM">
+			<Text>Romantisme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_ROMANTICISM_HELP">
+			<Text>Permet la construction du [COLOR_POSITIVE_TEXT]Zoo[ENDCOLOR], qui augmente la quantité de [ICON_HAPPINESS_1] Bonheur dans l'Empire et augmente la fréquence des [ICON_GOLDEN_AGE] Âges d'Or.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_ROMANTICISM_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"The greatest happiness for the thinking man is to have fathomed the fathomable, and to quietly revere the unfathomable."[NEWLINE][TAB][TAB] - Johann Wolfgang Goethe[NEWLINE][TAB]</Text>
+		</Row>
+		<!--Sovereignty-->
+		<Row Tag="TXT_KEY_TECH_EE_SOVEREIGNTY">
+			<Text>Souveraineté</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_SOVEREIGNTY_HELP">
+			<Text>Permet la construction d'une gamme de bâtiments et de merveilles dont les bonus sont basés sur la génération de personnages illustres. Permet également de fonder le Congrès Mondial une fois toutes les autres civilisations rencontrées.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_SOVEREIGNTY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"A State is but an Artificial Man in which the Sovereignty is an Artificial Soul, as giving life and motion to the whole body."[NEWLINE][TAB][TAB] - Thomas Hobbes[NEWLINE][TAB]</Text>
+		</Row>
+		<!--Warships-->
+		<Row Tag="TXT_KEY_TECH_EE_WARSHIPS">
+			<Text>Navires de guerre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_WARSHIPS_HELP">
+			<Text>Permet la construction de la [COLOR_POSITIVE_TEXT]Frégate[ENDCOLOR], navire à distance intermédiaire de la Renaissance et de l'Ere Industrielle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EE_WARSHIPS_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Au diable les torpilles, en avant toute !"[NEWLINE][TAB][TAB] - Amiral David Glasgow Farragut[NEWLINE][TAB]</Text>
+		</Row>
+		<!-- Tech Names -->
+		<Row Tag="TXT_KEY_TECH_CONSTITUTION">
+			<Text>Constitution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_RADIO_STEAMPUNK">
+			<Text>Impulsions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ROBOTICS_STEAMPUNK">
+			<Text>Pistonage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_NATURAL_PHILOSOPHY">
+			<Text>Philosophie naturelle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MAGNETIC_RESONANCE">
+			<Text>Résonance magnétique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ADVANCED_MACHINERY">
+			<Text>Machinerie avancée</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_DARWINISM">
+			<Text>Darwinisme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_METAL_FLESH">
+			<Text>Chair de métal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CLANKERISM">
+			<Text>Clankerisme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_GENETICS">
+			<Text>Génétique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_AQUACULTURE">
+			<Text>Aquaculture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_HYDROPONICS">
+			<Text>Cultures hydroponiques</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BIOLOGICAL_WARFARE">
+			<Text>Guerre biologique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CLONING">
+			<Text>Clonage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SHIELDING">
+			<Text>Boucliers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_BIONICS">
+			<Text>Bionique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ADVANCED_SHIELDING">
+			<Text>Boucliers de pointe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COLD_FUSION">
+			<Text>Fusion froide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_CYBERNETICS">
+			<Text>Cybernétique</Text>
+		</Row>
+	</Language_FR_FR>
+</GameData>
