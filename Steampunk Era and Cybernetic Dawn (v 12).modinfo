@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Mod id="abe48da5-e329-4eb7-a6d3-adbe56c0a41f" version="12">
   <Properties>
     <Name>Steampunk Era and Cybernetic Dawn</Name>
@@ -190,7 +190,7 @@
     <File md5="10DD536CC986DE2C7296AF52FF0315F2" import="0">Core/NuclearPlantsCanMeltdown.lua</File>
     <File md5="62FCC4C64CC9976FB30F0D15A2910B00" import="0">Core/Wonders.lua</File>
     <File md5="C99BC74D62C45F4D114FCBB7B26E24B1" import="0">XML/Buildings/CIV5Buildings_SPEra.xml</File>
-    <File md5="2B9E55ED71369FF0E94FD6691B6E3DDC" import="0">XML/Buildings/CIV5Buildings_TextEntries_SPEra.xml</File>
+    <File md5="D7D748B7213CFD2A0FBF0469BB25D5DE" import="0">XML/Buildings/CIV5Buildings_TextEntries_SPEra.xml</File>
     <File md5="9656C48FD30756DFF1EEF6698A18B2F5" import="0">XML/Civilizations/CIV5Civ_Unique_SPEra.xml</File>
     <File md5="7427E72E08C796876F06BE689EE01C7C" import="0">XML/Civilizations/CIV5Civilizations_SPEra.xml</File>
     <File md5="E3D55280B3AD3831B3457ED36EF97D71" import="1">XML/Civilizations/Cutler_Scenario_Scene.xml</File>
@@ -203,10 +203,10 @@
     <File md5="AC18F4226F9E9B276CD15D9DB84C95CE" import="0">XML/Civilizations/TextEntries/CIV5Civ_Unique_TextEntries_SPEra.xml</File>
     <File md5="2E146675E4B7DEB0DE08673D72067B35" import="0">XML/Civilizations/CIV5Traits_SPEra.xml</File>
     <File md5="FED090D7A4E6B3DD55CC334084F049E9" import="0">XML/Technologies/CIV5Technologies_SPEra.xml</File>
-    <File md5="6D91AFFFD3AA4DC859A3CE2A91158300" import="0">XML/Technologies/CIV5Technologies_TextEntries_SPEra.xml</File>
+    <File md5="F4ECE2DE802E67713E57BD6D0C91849D" import="0">XML/Technologies/CIV5Technologies_TextEntries_SPEra.xml</File>
     <File md5="E1D68D8DB4759E578A2744772DA3F117" import="0">XML/Units/CIV5UnitsPromotions.xml</File>
     <File md5="285E286917102EF5A31A7F1E66711846" import="0">XML/Units/CIV5Units_SPEra.xml</File>
-    <File md5="8EB7D6E07BE69F4C4F44CE83DFAFCECA" import="0">XML/Units/CIV5Units_TextEntries_SPEra.xml</File>
+    <File md5="990885AEC5198D4F20D90F2E476955C2" import="0">XML/Units/CIV5Units_TextEntries_SPEra.xml</File>
   </Files>
   <Actions>
     <OnModActivated>
